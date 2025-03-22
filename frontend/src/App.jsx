@@ -1,49 +1,28 @@
-import { createBrowserRouter, Navigate, RouterProvider } from "react-router-dom";
-import LoginPage from "./pages/login";
-import SignupPage from "./pages/signup";
-import LandingPage from "./pages/landing";
-import HomePage from "./pages/home";
-import AuthenticatedLayout from "./components/layout/authenticated-layout";
-import { AuthProvider } from '@/contexts/AuthContext';
-
-const router = createBrowserRouter([
-    // Public Routes
-    {
-        path: "/",
-        element: <LandingPage />,
-    },
-    {
-        path: "/login",
-        element: <LoginPage />,
-    },
-    {
-        path: "/signup",
-        element: <SignupPage />,
-    },
-
-    // Authenticated Routes wrapped in AuthenticatedLayout
-    {
-        element: <AuthenticatedLayout />,
-        children: [
-            {
-                path: "/home",
-                element: <HomePage />,
-            },
-        ],
-    },
-
-    // Redirect unmatched routes
-    {
-        path: "*",
-        element: <Navigate to="/" />,
-    },
-]);
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import Layout from './components/layout/Layout';
+import Dashboard from './pages/Dashboard';
+import KnowledgeBase from './pages/KnowledgeBase';
+import QueryManagement from './pages/QueryManagement';
+import Analytics from './pages/Analytics';
+import Settings from './pages/Settings';
+import UserManagement from './pages/UserManagement';
+import Notifications from './pages/Notifications';
 
 function App() {
     return (
-        <AuthProvider>
-            <RouterProvider router={router} />
-        </AuthProvider>
+        <BrowserRouter>
+            <Routes>
+                <Route path="/" element={<Layout />}>
+                    <Route index element={<Dashboard />} />
+                    <Route path="knowledge-base" element={<KnowledgeBase />} />
+                    <Route path="queries" element={<QueryManagement />} />
+                    <Route path="analytics" element={<Analytics />} />
+                    <Route path="settings" element={<Settings />} />
+                    <Route path="users" element={<UserManagement />} />
+                    <Route path="notifications" element={<Notifications />} />
+                </Route>
+            </Routes>
+        </BrowserRouter>
     );
 }
 

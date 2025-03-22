@@ -1,111 +1,42 @@
 import React from "react";
-import { NavLink, useNavigate } from "react-router-dom";
-import { Menu, X, MenuIcon, ArrowLeftFromLineIcon } from "lucide-react";
+import { Link } from 'react-router-dom';
+import {
+  HomeIcon, BookOpenIcon, QuestionMarkCircleIcon,
+  ChartBarIcon, CogIcon, UserGroupIcon, BellIcon
+} from '@heroicons/react/24/outline';
 
-const Sidebar = ({ user, isCollapsed, toggleSidebar }) => {
-  const navigate = useNavigate();
-
-  const handleLogout = () => {
-    if (typeof window !== "undefined" && localStorage.getItem("token")) {
-      localStorage.removeItem("token");
-      localStorage.removeItem("user");
-      navigate("/login");
-    }
-  };
+const Sidebar = ({ isOpen, setIsOpen }) => {
+  const navigation = [
+    { name: 'Dashboard', href: '/', icon: HomeIcon },
+    { name: 'Knowledge Base', href: '/knowledge-base', icon: BookOpenIcon },
+    { name: 'Query Management', href: '/queries', icon: QuestionMarkCircleIcon },
+    { name: 'Analytics', href: '/analytics', icon: ChartBarIcon },
+    { name: 'User Management', href: '/users', icon: UserGroupIcon },
+    { name: 'Notifications', href: '/notifications', icon: BellIcon },
+    { name: 'Settings', href: '/settings', icon: CogIcon },
+  ];
 
   return (
-    <div
-      className={`h-screen bg-white text-gray-800 shadow-lg fixed flex flex-col justify-between border-r border-gray-200 transition-all duration-300 ${
-        isCollapsed ? "w-16" : "w-64"
-      }`}
-    >
-      <div>
-        <div className="p-4 border-b border-gray-200 flex items-center justify-between">
-          {!isCollapsed && (
-            <div className="flex flex-col">
-              <a href="/" className="text-2xl font-bold text-black">ReSync</a>
-              {user && (
-                <p className="text-sm text-gray-600 mt-2">
-                  Hi, {user.firstName} {user.lastName}
-                </p>
-              )}
-            </div>
-          )}
-          <button
-            onClick={toggleSidebar}
-            className="p-1 rounded hover:bg-gray-200 focus:outline-none"
-          >
-            {isCollapsed ? <Menu size={20} /> : <ArrowLeftFromLineIcon size={20} />}
-          </button>
+    <div className={`fixed inset-y-0 left-0 z-50 w-64 bg-gray-900 transform ${isOpen ? 'translate-x-0' : '-translate-x-full'} lg:translate-x-0 transition-transform duration-300 ease-in-out`}>
+      <div className="flex flex-col h-full">
+        {/* Logo */}
+        <div className="flex items-center justify-center h-16 bg-gray-800">
+          <span className="text-xl font-bold text-white">AI Dashboard</span>
         </div>
-        <nav className="mt-4">
-          <NavLink
-            to="/research-papers"
-            className={({ isActive }) =>
-              `block py-2.5 px-4 rounded transition duration-200 ${
-                isActive ? "bg-black/30 text-blue-600 text-gray-700" : "hover:bg-black/10 text-black"
-              } ${isCollapsed ? "text-center" : ""}`
-            }
-            title={isCollapsed ? "Research Papers" : ""}
-          >
-            {isCollapsed ? "📄" : "Research Papers"}
-          </NavLink>
-          <NavLink
-            to="/datasets"
-            className={({ isActive }) =>
-              `block py-2.5 px-4 rounded transition duration-200 ${
-                isActive ? "bg-black/30 text-blue-600 text-gray-700" : "hover:bg-black/10 text-black"
-              } ${isCollapsed ? "text-center" : ""}`
-            }
-            title={isCollapsed ? "Datasets" : ""}
-          >
-            {isCollapsed ? "📊" : "Datasets"}
-          </NavLink>
-          <NavLink
-            to="/connections"
-            className={({ isActive }) =>
-              `block py-2.5 px-4 rounded transition duration-200 ${
-                isActive ? "bg-black/30 text-blue-600 text-gray-700" : "hover:bg-black/10 text-black"
-              } ${isCollapsed ? "text-center" : ""}`
-            }
-            title={isCollapsed ? "Connect" : ""}
-          >
-            {isCollapsed ? "🤝" : "Connect"}
-          </NavLink>
-          <NavLink
-            to="/news"
-            className={({ isActive }) =>
-              `block py-2.5 px-4 rounded transition duration-200 ${
-                isActive ? "bg-black/30 text-blue-600 text-gray-700" : "hover:bg-black/10 text-black"
-              } ${isCollapsed ? "text-center" : ""}`
-            }
-            title={isCollapsed ? "News" : ""}
-          >
-            {isCollapsed ? "📰" : "News"}
-          </NavLink>
-          <NavLink
-            to="/update-profile"
-            className={({ isActive }) =>
-              `block py-2.5 px-4 rounded transition duration-200 ${
-                isActive ? "bg-black/30 text-blue-600 text-gray-700" : "hover:bg-black/10 text-black"
-              } ${isCollapsed ? "text-center" : ""}`
-            }
-            title={isCollapsed ? "Profile" : ""}
-          >
-            {isCollapsed ? "👤" : "Profile"}
-          </NavLink>
+
+        {/* Navigation */}
+        <nav className="flex-1 px-2 py-4 space-y-1">
+          {navigation.map((item) => (
+            <Link
+              key={item.name}
+              to={item.href}
+              className="flex items-center px-4 py-2 text-sm font-medium text-gray-300 rounded-md hover:bg-gray-700 hover:text-white group"
+            >
+              <item.icon className="w-6 h-6 mr-3 text-gray-400 group-hover:text-white" />
+              {item.name}
+            </Link>
+          ))}
         </nav>
-      </div>
-      <div className="p-4 border-t border-gray-200">
-        <button
-          onClick={handleLogout}
-          className={`w-full py-2.5 rounded transition duration-200 bg-red-500 hover:bg-red-600 text-white ${
-            isCollapsed ? "px-2 text-sm" : "px-4"
-          }`}
-          title={isCollapsed ? "Logout" : ""}
-        >
-          {isCollapsed ? "🚪" : "Logout"}
-        </button>
       </div>
     </div>
   );

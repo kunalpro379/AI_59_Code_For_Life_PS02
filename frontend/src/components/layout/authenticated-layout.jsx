@@ -53,17 +53,16 @@ const AuthenticatedLayout = () => {
   }
 
   return (
-    <div className="flex">
-      <Sidebar user={user} isCollapsed={isSidebarCollapsed} toggleSidebar={toggleSidebar} />
-      <main
-        className={`flex-1 p-6 min-h-screen bg-gray-50 transition-all duration-300 ${
-          isSidebarCollapsed ? "ml-16" : "ml-64"
-        }`}
-      >
-        <Outlet />
-      </main>
+    <div className="">
+      {/* <Sidebar user={user} isCollapsed={isSidebarCollapsed} toggleSidebar={toggleSidebar} /> */}
+      {/* <main
+        className={`flex-1 p-6 min-h-screen bg-gray-50 transition-all duration-300 ${isSidebarCollapsed ? "ml-16" : "ml-64"
+          }`}
+      > */}
+      <Outlet />
+      {/* </main> */}
       <AiAssistant />
-    </div>
+    </div >
   );
 };
 

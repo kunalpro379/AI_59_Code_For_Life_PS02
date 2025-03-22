@@ -1,17 +1,16 @@
 import * as React from "react";
 import { cn } from "@/lib/utils";
 
-const Card = React.forwardRef(({ className, ...props }, ref) => (
-  <div
-    ref={ref}
-    className={cn(
-      "rounded-lg border bg-card text-card-foreground shadow-sm",
-      className
+const Card = ({ title, children, className }) => (
+  <div className={`bg-white/10 backdrop-blur-xl border border-white/10 rounded-xl ${className}`}>
+    {title && (
+      <div className="p-4 border-b border-white/10">
+        <h2 className="text-lg font-medium text-white">{title}</h2>
+      </div>
     )}
-    {...props}
-  />
-));
-Card.displayName = "Card";
+    <div className="p-4">{children}</div>
+  </div>
+);
 
 const CardHeader = React.forwardRef(({ className, ...props }, ref) => (
   <div
@@ -58,3 +57,5 @@ const CardFooter = React.forwardRef(({ className, ...props }, ref) => (
 CardFooter.displayName = "CardFooter";
 
 export { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter };
+
+export default Card;
