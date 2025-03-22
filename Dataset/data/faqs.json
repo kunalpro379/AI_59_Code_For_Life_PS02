@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "FAQ0001",
+    "question": "How do I issue stock for production order SO-2024-4166?",
+    "answer": "Stock aging report for January 2024 has been generated. Total value: ₹139,516",
+    "category": "Transaction",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Debit Note",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0002",
+    "question": "How do I reconcile GST mismatches for March 2024?",
+    "answer": "E-way bill EWB44536801 generated for invoice INV-2024-7966. Valid till: 30-03-2025",
+    "category": "Transaction",
+    "erp_module": "GST",
+    "gst_type": "UTGST",
+    "transaction_type": "Credit Note",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0003",
+    "question": "What is the leave balance for employee EMP-5309?",
+    "answer": "Recruitment status for position POS-8219: On Hold",
+    "category": "Configuration",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Credit Note",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0004",
+    "question": "How do I issue stock for production order SO-2024-7602?",
+    "answer": "Stock transferred from Main Store to Production Store. Quantity: 429",
+    "category": "Transaction",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0005",
+    "question": "Can you provide the sales report for February 2024?",
+    "answer": "Return processed for invoice INV-2024-8941. Credit note CN-2024-6642 issued.",
+    "category": "Report",
+    "erp_module": "Sales",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0006",
+    "question": "How do I process payroll for February 2024?",
+    "answer": "Recruitment status for position POS-2765: Pending",
+    "category": "Analysis",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0007",
+    "question": "How do I reconcile GST mismatches for February 2024?",
+    "answer": "GSTR-1 for January 2024 has been filed successfully. ARN: AA2403244734494",
+    "category": "Compliance",
+    "erp_module": "GST",
+    "gst_type": "CGST",
+    "transaction_type": "Invoice",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0008",
+    "question": "What is the current outstanding amount for Supplier E?",
+    "answer": "Payment status for invoice INV-2024-7963: On Hold. Amount: ₹53,924",
+    "category": "Compliance",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "Payment",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0009",
+    "question": "Can you generate the attendance report for March 2024?",
+    "answer": "Attendance report for February 2024 has been generated. Total working days: 27",
+    "category": "Process",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Debit Note",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0010",
+    "question": "How do I reconcile GST mismatches for January 2024?",
+    "answer": "E-way bill EWB17008672 generated for invoice INV-2024-3846. Valid till: 08-04-2025",
+    "category": "Compliance",
+    "erp_module": "GST",
+    "gst_type": "IGST",
+    "transaction_type": "Invoice",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0011",
+    "question": "What is the status of recruitment for position POS-9253?",
+    "answer": "Employee details for EMP-2397 have been updated successfully",
+    "category": "Process",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Credit Note",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0012",
+    "question": "How do I process Debit Note in Purchase?",
+    "answer": "Transaction processed successfully. Reference ID: REF913612",
+    "category": "Report",
+    "erp_module": "Purchase",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0013",
+    "question": "How do I reconcile GST mismatches for January 2024?",
+    "answer": "GST mismatches for March 2024 have been reconciled. 60 discrepancies resolved.",
+    "category": "Process",
+    "erp_module": "GST",
+    "gst_type": "SGST",
+    "transaction_type": "Invoice",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0014",
+    "question": "How do I process a return for invoice INV-2024-3183?",
+    "answer": "Sales report for January 2024 has been generated. Total sales: ₹71,784",
+    "category": "Transaction",
+    "erp_module": "Sales",
+    "gst_type": null,
+    "transaction_type": "E-way Bill",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0015",
+    "question": "What is the status of sales order SO-2024-7600?",
+    "answer": "Sales invoice INV-2024-8944 has been generated for ABC Ltd. Total amount: ₹241,953",
+    "category": "Analysis",
+    "erp_module": "Sales",
+    "gst_type": null,
+    "transaction_type": "E-way Bill",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0016",
+    "question": "How do I issue stock for production order SO-2024-4746?",
+    "answer": "Reorder level for item ITEM-5527: 654 units",
+    "category": "Compliance",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Debit Note",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0017",
+    "question": "What is the current outstanding amount for Supplier B?",
+    "answer": "Bank reconciliation completed for HDFC Bank. 249 transactions matched",
+    "category": "Compliance",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "Payment",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0018",
+    "question": "What is the ITC amount available for February 2024?",
+    "answer": "GSTR-1 for March 2024 has been filed successfully. ARN: AA2403248445795",
+    "category": "Configuration",
+    "erp_module": "GST",
+    "gst_type": "IGST",
+    "transaction_type": "Payment",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0019",
+    "question": "Can you provide the sales report for February 2024?",
+    "answer": "Sales invoice INV-2024-2287 has been generated for PQR Industries. Total amount: ₹175,764",
+    "category": "Transaction",
+    "erp_module": "Sales",
+    "gst_type": null,
+    "transaction_type": "E-way Bill",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0020",
+    "question": "What are the GST filing deadlines for January 2024?",
+    "answer": "GST filing deadlines for March 2024: GSTR-1 by 01-04-2025, GSTR-3B by 06-04-2025",
+    "category": "Analysis",
+    "erp_module": "GST",
+    "gst_type": "CGST",
+    "transaction_type": "Payment",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0021",
+    "question": "What is the ITC amount available for February 2024?",
+    "answer": "GST filing deadlines for January 2024: GSTR-1 by 01-04-2025, GSTR-3B by 06-04-2025",
+    "category": "Configuration",
+    "erp_module": "GST",
+    "gst_type": "IGST",
+    "transaction_type": "E-way Bill",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0022",
+    "question": "How can I generate financial reports for January 2024?",
+    "answer": "Bank reconciliation completed for Kotak Mahindra Bank. 408 transactions matched",
+    "category": "Report",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0023",
+    "question": "How do I update employee details for EMP-8547?",
+    "answer": "Leave balance for employee EMP-9094: 23 days",
+    "category": "Compliance",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Credit Note",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0024",
+    "question": "Can you generate the attendance report for January 2024?",
+    "answer": "Payroll for February 2024 has been processed. Total amount: ₹349,644",
+    "category": "Configuration",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "E-way Bill",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0025",
+    "question": "How do I reconcile GST mismatches for January 2024?",
+    "answer": "E-way bill EWB43449907 generated for invoice INV-2024-4152. Valid till: 26-03-2025",
+    "category": "Process",
+    "erp_module": "GST",
+    "gst_type": "UTGST",
+    "transaction_type": "Payment",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0026",
+    "question": "How do I process a credit note for Supplier D?",
+    "answer": "Outstanding amount for Supplier C: ₹140,576. Due date: 27-03-2025",
+    "category": "Transaction",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "Payment",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0027",
+    "question": "What is the status of recruitment for position POS-9670?",
+    "answer": "Attendance report for January 2024 has been generated. Total working days: 29",
+    "category": "Analysis",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0028",
+    "question": "What is the status of sales order SO-2024-7258?",
+    "answer": "Pending payment for ABC Ltd: ₹685,198. Due date: 04-04-2025",
+    "category": "Transaction",
+    "erp_module": "Sales",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0029",
+    "question": "How do I file GSTR-1 for period February 2024?",
+    "answer": "Available ITC for March 2024: ₹276,980. Utilized: ₹135,175",
+    "category": "Compliance",
+    "erp_module": "GST",
+    "gst_type": "CGST",
+    "transaction_type": "Payment",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0030",
+    "question": "How can I check the pending payments for LMN Enterprises?",
+    "answer": "Sales report for February 2024 has been generated. Total sales: ₹72,730",
+    "category": "Report",
+    "erp_module": "Sales",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0031",
+    "question": "How do I generate a sales invoice for customer PQR Industries?",
+    "answer": "Sales invoice INV-2024-6322 has been generated for LMN Enterprises. Total amount: ₹633,377",
+    "category": "Report",
+    "erp_module": "Sales",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0032",
+    "question": "Can you provide the sales report for March 2024?",
+    "answer": "Return processed for invoice INV-2024-3764. Credit note CN-2024-5874 issued.",
+    "category": "Compliance",
+    "erp_module": "Sales",
+    "gst_type": null,
+    "transaction_type": "Credit Note",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0033",
+    "question": "How do I reconcile bank statement for ICICI Bank?",
+    "answer": "Bank reconciliation completed for ICICI Bank. 149 transactions matched",
+    "category": "Transaction",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "E-way Bill",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0034",
+    "question": "How do I reconcile bank statement for HDFC Bank?",
+    "answer": "Financial reports for January 2024 have been generated and saved",
+    "category": "Compliance",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "Payment",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0035",
+    "question": "Can you generate the attendance report for January 2024?",
+    "answer": "Employee details for EMP-7534 have been updated successfully",
+    "category": "Analysis",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Credit Note",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0036",
+    "question": "Can you provide the stock aging report for March 2024?",
+    "answer": "Current stock level for item ITEM-8745: 406 units",
+    "category": "Report",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Payment",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0037",
+    "question": "How can I generate e-way bill for invoice INV-2024-4190?",
+    "answer": "GST mismatches for January 2024 have been reconciled. 161 discrepancies resolved.",
+    "category": "Configuration",
+    "erp_module": "GST",
+    "gst_type": "CGST",
+    "transaction_type": "E-way Bill",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0038",
+    "question": "Can you provide the sales report for February 2024?",
+    "answer": "Sales order SO-2024-7086 status: On Hold. Expected delivery: 16-04-2025",
+    "category": "Process",
+    "erp_module": "Sales",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0039",
+    "question": "How do I process payroll for February 2024?",
+    "answer": "Leave balance for employee EMP-5054: 19 days",
+    "category": "Process",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Credit Note",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0040",
+    "question": "How do I issue stock for production order SO-2024-8823?",
+    "answer": "Stock transferred from Main Store to Production Store. Quantity: 517",
+    "category": "Analysis",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Payment",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0041",
+    "question": "How can I generate e-way bill for invoice INV-2024-6228?",
+    "answer": "GSTR-1 for March 2024 has been filed successfully. ARN: AA2403241157786",
+    "category": "Process",
+    "erp_module": "GST",
+    "gst_type": "IGST",
+    "transaction_type": "Debit Note",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0042",
+    "question": "Can you generate the attendance report for February 2024?",
+    "answer": "Payroll for February 2024 has been processed. Total amount: ₹540,674",
+    "category": "Transaction",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "E-way Bill",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0043",
+    "question": "What is the reorder level for item ITEM-7869?",
+    "answer": "Stock aging report for March 2024 has been generated. Total value: ₹509,981",
+    "category": "Analysis",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Payment",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0044",
+    "question": "How do I generate a sales invoice for customer LMN Enterprises?",
+    "answer": "Pending payment for ABC Ltd: ₹976,580. Due date: 11-04-2025",
+    "category": "Report",
+    "erp_module": "Sales",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0045",
+    "question": "How do I process payroll for February 2024?",
+    "answer": "Employee details for EMP-8961 have been updated successfully",
+    "category": "Transaction",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0046",
+    "question": "How do I process Payment in Purchase?",
+    "answer": "Transaction processed successfully. Reference ID: REF741885",
+    "category": "Report",
+    "erp_module": "Purchase",
+    "gst_type": null,
+    "transaction_type": "Credit Note",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0047",
+    "question": "What are the GST filing deadlines for February 2024?",
+    "answer": "Available ITC for January 2024: ₹12,257. Utilized: ₹234,702",
+    "category": "Analysis",
+    "erp_module": "GST",
+    "gst_type": "SGST",
+    "transaction_type": "Payment",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0048",
+    "question": "What is the leave balance for employee EMP-3099?",
+    "answer": "Leave balance for employee EMP-7118: 16 days",
+    "category": "Compliance",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "E-way Bill",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0049",
+    "question": "How do I generate a sales invoice for customer ABC Ltd?",
+    "answer": "Sales order SO-2024-4040 status: Completed. Expected delivery: 15-04-2025",
+    "category": "Report",
+    "erp_module": "Sales",
+    "gst_type": null,
+    "transaction_type": "Payment",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0050",
+    "question": "What is the status of recruitment for position POS-7240?",
+    "answer": "Leave balance for employee EMP-8908: 18 days",
+    "category": "Compliance",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0051",
+    "question": "What is the status of recruitment for position POS-5605?",
+    "answer": "Attendance report for March 2024 has been generated. Total working days: 22",
+    "category": "Compliance",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0052",
+    "question": "How do I generate a sales invoice for customer ABC Ltd?",
+    "answer": "Pending payment for LMN Enterprises: ₹716,210. Due date: 09-04-2025",
+    "category": "Analysis",
+    "erp_module": "Sales",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0053",
+    "question": "How can I check the pending payments for PQR Industries?",
+    "answer": "Pending payment for LMN Enterprises: ₹382,103. Due date: 14-04-2025",
+    "category": "Transaction",
+    "erp_module": "Sales",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0054",
+    "question": "Can you provide the stock aging report for February 2024?",
+    "answer": "Reorder level for item ITEM-8709: 457 units",
+    "category": "Analysis",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "E-way Bill",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0055",
+    "question": "How can I generate e-way bill for invoice INV-2024-1723?",
+    "answer": "Available ITC for January 2024: ₹853,344. Utilized: ₹70,065",
+    "category": "Process",
+    "erp_module": "GST",
+    "gst_type": "IGST",
+    "transaction_type": "Debit Note",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0056",
+    "question": "How can I check the pending payments for PQR Industries?",
+    "answer": "Sales invoice INV-2024-3059 has been generated for XYZ Corp. Total amount: ₹221,335",
+    "category": "Configuration",
+    "erp_module": "Sales",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0057",
+    "question": "What is the reorder level for item ITEM-4777?",
+    "answer": "Stock transferred from Main Store to Production Store. Quantity: 379",
+    "category": "Report",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0058",
+    "question": "How do I reconcile GST mismatches for February 2024?",
+    "answer": "E-way bill EWB94329460 generated for invoice INV-2024-2103. Valid till: 11-04-2025",
+    "category": "Process",
+    "erp_module": "GST",
+    "gst_type": "SGST",
+    "transaction_type": "Payment",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0059",
+    "question": "What is the status of recruitment for position POS-7090?",
+    "answer": "Payroll for February 2024 has been processed. Total amount: ₹391,877",
+    "category": "Report",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Credit Note",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0060",
+    "question": "How do I generate a sales invoice for customer ABC Ltd?",
+    "answer": "Return processed for invoice INV-2024-7037. Credit note CN-2024-7971 issued.",
+    "category": "Configuration",
+    "erp_module": "Sales",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0061",
+    "question": "What is the current stock level for item ITEM-8327?",
+    "answer": "Reorder level for item ITEM-4607: 266 units",
+    "category": "Configuration",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0062",
+    "question": "How do I process a return for invoice INV-2024-3383?",
+    "answer": "Sales report for March 2024 has been generated. Total sales: ₹18,015",
+    "category": "Configuration",
+    "erp_module": "Sales",
+    "gst_type": null,
+    "transaction_type": "Credit Note",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0063",
+    "question": "How do I process Credit Note in Purchase?",
+    "answer": "Transaction processed successfully. Reference ID: REF843784",
+    "category": "Transaction",
+    "erp_module": "Purchase",
+    "gst_type": null,
+    "transaction_type": "Credit Note",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0064",
+    "question": "How do I process Payment in Purchase?",
+    "answer": "Transaction processed successfully. Reference ID: REF668136",
+    "category": "Process",
+    "erp_module": "Purchase",
+    "gst_type": null,
+    "transaction_type": "Payment",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0065",
+    "question": "How do I process Invoice in Purchase?",
+    "answer": "Transaction processed successfully. Reference ID: REF173348",
+    "category": "Report",
+    "erp_module": "Purchase",
+    "gst_type": null,
+    "transaction_type": "E-way Bill",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0066",
+    "question": "What is the current stock level for item ITEM-1495?",
+    "answer": "Stock aging report for February 2024 has been generated. Total value: ₹410,597",
+    "category": "Compliance",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0067",
+    "question": "What is the reorder level for item ITEM-8373?",
+    "answer": "Stock issued for production order SO-2024-2579. Quantity: 133",
+    "category": "Compliance",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Credit Note",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0068",
+    "question": "What is the status of recruitment for position POS-9123?",
+    "answer": "Employee details for EMP-8177 have been updated successfully",
+    "category": "Analysis",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Debit Note",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0069",
+    "question": "How do I file GSTR-1 for period January 2024?",
+    "answer": "GST mismatches for February 2024 have been reconciled. 107 discrepancies resolved.",
+    "category": "Compliance",
+    "erp_module": "GST",
+    "gst_type": "CGST",
+    "transaction_type": "Payment",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0070",
+    "question": "What is the current outstanding amount for Supplier B?",
+    "answer": "Financial reports for March 2024 have been generated and saved",
+    "category": "Configuration",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0071",
+    "question": "How can I generate e-way bill for invoice INV-2024-6435?",
+    "answer": "GSTR-1 for March 2024 has been filed successfully. ARN: AA2403241084492",
+    "category": "Analysis",
+    "erp_module": "GST",
+    "gst_type": "IGST",
+    "transaction_type": "Invoice",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0072",
+    "question": "What is the status of payment for invoice INV-2024-4492?",
+    "answer": "Financial reports for January 2024 have been generated and saved",
+    "category": "Report",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0073",
+    "question": "How do I generate a sales invoice for customer LMN Enterprises?",
+    "answer": "Sales order SO-2024-5671 status: Completed. Expected delivery: 23-03-2025",
+    "category": "Transaction",
+    "erp_module": "Sales",
+    "gst_type": null,
+    "transaction_type": "E-way Bill",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0074",
+    "question": "How do I update employee details for EMP-6288?",
+    "answer": "Leave balance for employee EMP-1408: 4 days",
+    "category": "Compliance",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Credit Note",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0075",
+    "question": "How do I process E-way Bill in Purchase?",
+    "answer": "Transaction processed successfully. Reference ID: REF929860",
+    "category": "Process",
+    "erp_module": "Purchase",
+    "gst_type": null,
+    "transaction_type": "Payment",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0076",
+    "question": "How do I update employee details for EMP-8429?",
+    "answer": "Attendance report for March 2024 has been generated. Total working days: 20",
+    "category": "Analysis",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Debit Note",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0077",
+    "question": "How do I process Credit Note in Purchase?",
+    "answer": "Transaction processed successfully. Reference ID: REF906237",
+    "category": "Report",
+    "erp_module": "Purchase",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0078",
+    "question": "How can I generate financial reports for January 2024?",
+    "answer": "Outstanding amount for Supplier D: ₹556,149. Due date: 06-04-2025",
+    "category": "Process",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0079",
+    "question": "How do I update employee details for EMP-2731?",
+    "answer": "Attendance report for February 2024 has been generated. Total working days: 29",
+    "category": "Analysis",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0080",
+    "question": "Can you provide the stock aging report for February 2024?",
+    "answer": "Stock issued for production order SO-2024-6285. Quantity: 834",
+    "category": "Configuration",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "E-way Bill",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0081",
+    "question": "How do I update employee details for EMP-5369?",
+    "answer": "Payroll for January 2024 has been processed. Total amount: ₹850,764",
+    "category": "Process",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0082",
+    "question": "What is the reorder level for item ITEM-4850?",
+    "answer": "Current stock level for item ITEM-1327: 464 units",
+    "category": "Transaction",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0083",
+    "question": "What is the leave balance for employee EMP-6555?",
+    "answer": "Employee details for EMP-2456 have been updated successfully",
+    "category": "Transaction",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Credit Note",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0084",
+    "question": "How do I process Invoice in Purchase?",
+    "answer": "Transaction processed successfully. Reference ID: REF187376",
+    "category": "Report",
+    "erp_module": "Purchase",
+    "gst_type": null,
+    "transaction_type": "E-way Bill",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0085",
+    "question": "What is the current stock level for item ITEM-7174?",
+    "answer": "Stock aging report for March 2024 has been generated. Total value: ₹121,458",
+    "category": "Analysis",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Credit Note",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0086",
+    "question": "How do I process payroll for March 2024?",
+    "answer": "Leave balance for employee EMP-3291: 0 days",
+    "category": "Report",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0087",
+    "question": "How do I update employee details for EMP-9922?",
+    "answer": "Employee details for EMP-3440 have been updated successfully",
+    "category": "Process",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Payment",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0088",
+    "question": "What is the current outstanding amount for Supplier C?",
+    "answer": "Bank reconciliation completed for Kotak Mahindra Bank. 458 transactions matched",
+    "category": "Compliance",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0089",
+    "question": "How can I check the pending payments for ABC Ltd?",
+    "answer": "Sales order SO-2024-6613 status: On Hold. Expected delivery: 18-04-2025",
+    "category": "Report",
+    "erp_module": "Sales",
+    "gst_type": null,
+    "transaction_type": "E-way Bill",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0090",
+    "question": "What is the reorder level for item ITEM-2455?",
+    "answer": "Stock issued for production order SO-2024-4281. Quantity: 204",
+    "category": "Compliance",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0091",
+    "question": "What is the status of payment for invoice INV-2024-6391?",
+    "answer": "Outstanding amount for Supplier A: ₹489,689. Due date: 17-04-2025",
+    "category": "Transaction",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0092",
+    "question": "Can you generate the attendance report for January 2024?",
+    "answer": "Recruitment status for position POS-2248: Processed",
+    "category": "Configuration",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0093",
+    "question": "How do I process Credit Note in Purchase?",
+    "answer": "Transaction processed successfully. Reference ID: REF762815",
+    "category": "Report",
+    "erp_module": "Purchase",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0094",
+    "question": "How do I process a credit note for Supplier A?",
+    "answer": "Bank reconciliation completed for ICICI Bank. 163 transactions matched",
+    "category": "Compliance",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0095",
+    "question": "How can I generate financial reports for February 2024?",
+    "answer": "Outstanding amount for Supplier D: ₹173,510. Due date: 15-04-2025",
+    "category": "Transaction",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "Credit Note",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0096",
+    "question": "How do I process payroll for March 2024?",
+    "answer": "Payroll for February 2024 has been processed. Total amount: ₹652,699",
+    "category": "Configuration",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Credit Note",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0097",
+    "question": "Can you provide the sales report for March 2024?",
+    "answer": "Sales order SO-2024-7195 status: On Hold. Expected delivery: 29-03-2025",
+    "category": "Configuration",
+    "erp_module": "Sales",
+    "gst_type": null,
+    "transaction_type": "E-way Bill",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0098",
+    "question": "How can I generate financial reports for March 2024?",
+    "answer": "Credit note CN-2024-1066 processed for Supplier B. Amount: ₹695,609",
+    "category": "Compliance",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "Payment",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0099",
+    "question": "What is the status of payment for invoice INV-2024-9229?",
+    "answer": "Bank reconciliation completed for ICICI Bank. 309 transactions matched",
+    "category": "Transaction",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "E-way Bill",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0100",
+    "question": "How do I process Return in Purchase?",
+    "answer": "Transaction processed successfully. Reference ID: REF171470",
+    "category": "Configuration",
+    "erp_module": "Purchase",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0101",
+    "question": "How do I transfer stock from Main Store to Production Store?",
+    "answer": "Current stock level for item ITEM-7141: 101 units",
+    "category": "Transaction",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Debit Note",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0102",
+    "question": "How do I update employee details for EMP-1069?",
+    "answer": "Recruitment status for position POS-5024: Completed",
+    "category": "Compliance",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "E-way Bill",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0103",
+    "question": "How do I process Invoice in Purchase?",
+    "answer": "Transaction processed successfully. Reference ID: REF181857",
+    "category": "Configuration",
+    "erp_module": "Purchase",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0104",
+    "question": "How do I reconcile bank statement for Kotak Mahindra Bank?",
+    "answer": "Bank reconciliation completed for SBI. 71 transactions matched",
+    "category": "Configuration",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "Debit Note",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0105",
+    "question": "How do I reconcile GST mismatches for January 2024?",
+    "answer": "E-way bill EWB36864238 generated for invoice INV-2024-6964. Valid till: 21-04-2025",
+    "category": "Configuration",
+    "erp_module": "GST",
+    "gst_type": "CGST",
+    "transaction_type": "Return",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0106",
+    "question": "How do I issue stock for production order SO-2024-2106?",
+    "answer": "Stock transferred from Main Store to Production Store. Quantity: 85",
+    "category": "Configuration",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Debit Note",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0107",
+    "question": "How do I process E-way Bill in Purchase?",
+    "answer": "Transaction processed successfully. Reference ID: REF925596",
+    "category": "Transaction",
+    "erp_module": "Purchase",
+    "gst_type": null,
+    "transaction_type": "Credit Note",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0108",
+    "question": "Can you generate the attendance report for March 2024?",
+    "answer": "Employee details for EMP-1695 have been updated successfully",
+    "category": "Process",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "E-way Bill",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0109",
+    "question": "How can I generate e-way bill for invoice INV-2024-8604?",
+    "answer": "GST filing deadlines for March 2024: GSTR-1 by 01-04-2025, GSTR-3B by 06-04-2025",
+    "category": "Transaction",
+    "erp_module": "GST",
+    "gst_type": "CGST",
+    "transaction_type": "Payment",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0110",
+    "question": "How can I generate financial reports for January 2024?",
+    "answer": "Outstanding amount for Supplier D: ₹605,881. Due date: 03-04-2025",
+    "category": "Transaction",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "Payment",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0111",
+    "question": "How can I generate financial reports for February 2024?",
+    "answer": "Outstanding amount for Supplier C: ₹572,792. Due date: 21-04-2025",
+    "category": "Compliance",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0112",
+    "question": "How do I file GSTR-1 for period February 2024?",
+    "answer": "E-way bill EWB25601288 generated for invoice INV-2024-5326. Valid till: 10-04-2025",
+    "category": "Report",
+    "erp_module": "GST",
+    "gst_type": "IGST",
+    "transaction_type": "E-way Bill",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0113",
+    "question": "How do I process payroll for February 2024?",
+    "answer": "Employee details for EMP-9894 have been updated successfully",
+    "category": "Analysis",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Credit Note",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0114",
+    "question": "What is the reorder level for item ITEM-6852?",
+    "answer": "Reorder level for item ITEM-5347: 86 units",
+    "category": "Process",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0115",
+    "question": "How do I file GSTR-1 for period February 2024?",
+    "answer": "GST mismatches for January 2024 have been reconciled. 156 discrepancies resolved.",
+    "category": "Report",
+    "erp_module": "GST",
+    "gst_type": "CGST",
+    "transaction_type": "Return",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0116",
+    "question": "How do I reconcile GST mismatches for February 2024?",
+    "answer": "GST mismatches for February 2024 have been reconciled. 349 discrepancies resolved.",
+    "category": "Configuration",
+    "erp_module": "GST",
+    "gst_type": "IGST",
+    "transaction_type": "Invoice",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0117",
+    "question": "How do I process Payment in Purchase?",
+    "answer": "Transaction processed successfully. Reference ID: REF761737",
+    "category": "Compliance",
+    "erp_module": "Purchase",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0118",
+    "question": "How do I process a return for invoice INV-2024-2651?",
+    "answer": "Sales invoice INV-2024-8114 has been generated for RST Solutions. Total amount: ₹951,295",
+    "category": "Transaction",
+    "erp_module": "Sales",
+    "gst_type": null,
+    "transaction_type": "E-way Bill",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0119",
+    "question": "What is the status of payment for invoice INV-2024-2442?",
+    "answer": "Payment status for invoice INV-2024-3871: Pending. Amount: ₹707,598",
+    "category": "Report",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "Payment",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0120",
+    "question": "Can you generate the attendance report for February 2024?",
+    "answer": "Payroll for February 2024 has been processed. Total amount: ₹249,361",
+    "category": "Configuration",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "E-way Bill",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0121",
+    "question": "How do I process Invoice in Purchase?",
+    "answer": "Transaction processed successfully. Reference ID: REF846020",
+    "category": "Compliance",
+    "erp_module": "Purchase",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0122",
+    "question": "How do I transfer stock from Main Store to Production Store?",
+    "answer": "Stock aging report for January 2024 has been generated. Total value: ₹634,596",
+    "category": "Compliance",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Credit Note",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0123",
+    "question": "What is the ITC amount available for February 2024?",
+    "answer": "GSTR-1 for January 2024 has been filed successfully. ARN: AA2403244584211",
+    "category": "Compliance",
+    "erp_module": "GST",
+    "gst_type": "CGST",
+    "transaction_type": "Debit Note",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0124",
+    "question": "Can you provide the stock aging report for January 2024?",
+    "answer": "Current stock level for item ITEM-7315: 422 units",
+    "category": "Analysis",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "E-way Bill",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0125",
+    "question": "How do I transfer stock from Main Store to Production Store?",
+    "answer": "Reorder level for item ITEM-3670: 599 units",
+    "category": "Report",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Payment",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0126",
+    "question": "Can you provide the stock aging report for February 2024?",
+    "answer": "Current stock level for item ITEM-5722: 930 units",
+    "category": "Configuration",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Credit Note",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0127",
+    "question": "What is the status of recruitment for position POS-3073?",
+    "answer": "Payroll for January 2024 has been processed. Total amount: ₹194,656",
+    "category": "Configuration",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0128",
+    "question": "Can you provide the sales report for January 2024?",
+    "answer": "Sales invoice INV-2024-5590 has been generated for RST Solutions. Total amount: ₹91,485",
+    "category": "Transaction",
+    "erp_module": "Sales",
+    "gst_type": null,
+    "transaction_type": "Payment",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0129",
+    "question": "How do I process a return for invoice INV-2024-2835?",
+    "answer": "Sales invoice INV-2024-6926 has been generated for ABC Ltd. Total amount: ₹459,083",
+    "category": "Compliance",
+    "erp_module": "Sales",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0130",
+    "question": "Can you generate the attendance report for March 2024?",
+    "answer": "Attendance report for February 2024 has been generated. Total working days: 27",
+    "category": "Analysis",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Payment",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0131",
+    "question": "How do I process Invoice in Purchase?",
+    "answer": "Transaction processed successfully. Reference ID: REF966060",
+    "category": "Compliance",
+    "erp_module": "Purchase",
+    "gst_type": null,
+    "transaction_type": "Debit Note",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0132",
+    "question": "How do I process Invoice in Purchase?",
+    "answer": "Transaction processed successfully. Reference ID: REF325631",
+    "category": "Process",
+    "erp_module": "Purchase",
+    "gst_type": null,
+    "transaction_type": "E-way Bill",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0133",
+    "question": "How do I process a credit note for Supplier D?",
+    "answer": "Financial reports for March 2024 have been generated and saved",
+    "category": "Analysis",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "Debit Note",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0134",
+    "question": "What is the ITC amount available for March 2024?",
+    "answer": "GSTR-1 for February 2024 has been filed successfully. ARN: AA2403246747518",
+    "category": "Report",
+    "erp_module": "GST",
+    "gst_type": "IGST",
+    "transaction_type": "E-way Bill",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0135",
+    "question": "How do I update employee details for EMP-2678?",
+    "answer": "Employee details for EMP-5233 have been updated successfully",
+    "category": "Configuration",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Credit Note",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0136",
+    "question": "What is the current outstanding amount for Supplier E?",
+    "answer": "Financial reports for February 2024 have been generated and saved",
+    "category": "Configuration",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "E-way Bill",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0137",
+    "question": "What is the ITC amount available for January 2024?",
+    "answer": "GST mismatches for January 2024 have been reconciled. 499 discrepancies resolved.",
+    "category": "Transaction",
+    "erp_module": "GST",
+    "gst_type": "SGST",
+    "transaction_type": "Debit Note",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0138",
+    "question": "How do I process payroll for January 2024?",
+    "answer": "Payroll for February 2024 has been processed. Total amount: ₹613,981",
+    "category": "Report",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Credit Note",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0139",
+    "question": "How do I issue stock for production order SO-2024-8151?",
+    "answer": "Stock issued for production order SO-2024-7119. Quantity: 55",
+    "category": "Process",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0140",
+    "question": "What is the ITC amount available for February 2024?",
+    "answer": "GST mismatches for March 2024 have been reconciled. 65 discrepancies resolved.",
+    "category": "Configuration",
+    "erp_module": "GST",
+    "gst_type": "SGST",
+    "transaction_type": "E-way Bill",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0141",
+    "question": "What is the reorder level for item ITEM-9800?",
+    "answer": "Stock transferred from Main Store to Production Store. Quantity: 552",
+    "category": "Transaction",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Debit Note",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0142",
+    "question": "What are the GST filing deadlines for March 2024?",
+    "answer": "E-way bill EWB52385595 generated for invoice INV-2024-4572. Valid till: 12-04-2025",
+    "category": "Compliance",
+    "erp_module": "GST",
+    "gst_type": "SGST",
+    "transaction_type": "Debit Note",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0143",
+    "question": "How do I process a credit note for Supplier E?",
+    "answer": "Payment status for invoice INV-2024-4230: On Hold. Amount: ₹441,413",
+    "category": "Configuration",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0144",
+    "question": "What is the status of recruitment for position POS-9762?",
+    "answer": "Recruitment status for position POS-2995: Completed",
+    "category": "Transaction",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0145",
+    "question": "How do I process payroll for January 2024?",
+    "answer": "Employee details for EMP-8009 have been updated successfully",
+    "category": "Analysis",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0146",
+    "question": "What is the current stock level for item ITEM-8169?",
+    "answer": "Stock aging report for January 2024 has been generated. Total value: ₹70,165",
+    "category": "Process",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Credit Note",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0147",
+    "question": "Can you provide the sales report for January 2024?",
+    "answer": "Sales order SO-2024-9663 status: On Hold. Expected delivery: 05-04-2025",
+    "category": "Configuration",
+    "erp_module": "Sales",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0148",
+    "question": "How do I issue stock for production order SO-2024-1443?",
+    "answer": "Stock issued for production order SO-2024-3520. Quantity: 228",
+    "category": "Configuration",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0149",
+    "question": "What is the current stock level for item ITEM-2493?",
+    "answer": "Stock issued for production order SO-2024-3430. Quantity: 293",
+    "category": "Process",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0150",
+    "question": "How do I process a credit note for Supplier A?",
+    "answer": "Credit note CN-2024-8041 processed for Supplier A. Amount: ₹193,832",
+    "category": "Report",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0151",
+    "question": "How do I process Return in Purchase?",
+    "answer": "Transaction processed successfully. Reference ID: REF298443",
+    "category": "Process",
+    "erp_module": "Purchase",
+    "gst_type": null,
+    "transaction_type": "E-way Bill",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0152",
+    "question": "What is the current outstanding amount for Supplier A?",
+    "answer": "Financial reports for March 2024 have been generated and saved",
+    "category": "Configuration",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0153",
+    "question": "How do I process a credit note for Supplier C?",
+    "answer": "Financial reports for March 2024 have been generated and saved",
+    "category": "Process",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "Payment",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0154",
+    "question": "What is the leave balance for employee EMP-7650?",
+    "answer": "Attendance report for March 2024 has been generated. Total working days: 21",
+    "category": "Configuration",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Payment",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0155",
+    "question": "How do I process a credit note for Supplier C?",
+    "answer": "Financial reports for March 2024 have been generated and saved",
+    "category": "Transaction",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0156",
+    "question": "How do I file GSTR-1 for period January 2024?",
+    "answer": "Available ITC for January 2024: ₹488,103. Utilized: ₹302,946",
+    "category": "Transaction",
+    "erp_module": "GST",
+    "gst_type": "SGST",
+    "transaction_type": "Invoice",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0157",
+    "question": "How do I reconcile GST mismatches for January 2024?",
+    "answer": "GST filing deadlines for March 2024: GSTR-1 by 01-04-2025, GSTR-3B by 06-04-2025",
+    "category": "Report",
+    "erp_module": "GST",
+    "gst_type": "UTGST",
+    "transaction_type": "E-way Bill",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0158",
+    "question": "How do I process Credit Note in Purchase?",
+    "answer": "Transaction processed successfully. Reference ID: REF263659",
+    "category": "Report",
+    "erp_module": "Purchase",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0159",
+    "question": "Can you provide the stock aging report for January 2024?",
+    "answer": "Reorder level for item ITEM-7444: 603 units",
+    "category": "Transaction",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "E-way Bill",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0160",
+    "question": "What are the GST filing deadlines for February 2024?",
+    "answer": "GST mismatches for February 2024 have been reconciled. 167 discrepancies resolved.",
+    "category": "Compliance",
+    "erp_module": "GST",
+    "gst_type": "SGST",
+    "transaction_type": "Credit Note",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0161",
+    "question": "Can you provide the stock aging report for January 2024?",
+    "answer": "Stock transferred from Main Store to Production Store. Quantity: 347",
+    "category": "Configuration",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Payment",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0162",
+    "question": "What is the reorder level for item ITEM-9729?",
+    "answer": "Stock transferred from Main Store to Production Store. Quantity: 738",
+    "category": "Configuration",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "E-way Bill",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0163",
+    "question": "What is the ITC amount available for February 2024?",
+    "answer": "GST filing deadlines for March 2024: GSTR-1 by 01-04-2025, GSTR-3B by 06-04-2025",
+    "category": "Analysis",
+    "erp_module": "GST",
+    "gst_type": "CGST",
+    "transaction_type": "Payment",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0164",
+    "question": "How do I file GSTR-1 for period January 2024?",
+    "answer": "E-way bill EWB55095050 generated for invoice INV-2024-9514. Valid till: 27-03-2025",
+    "category": "Configuration",
+    "erp_module": "GST",
+    "gst_type": "UTGST",
+    "transaction_type": "Debit Note",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0165",
+    "question": "How do I process payroll for January 2024?",
+    "answer": "Attendance report for February 2024 has been generated. Total working days: 23",
+    "category": "Analysis",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Debit Note",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0166",
+    "question": "How can I generate financial reports for February 2024?",
+    "answer": "Credit note CN-2024-4741 processed for Supplier E. Amount: ₹66,282",
+    "category": "Configuration",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0167",
+    "question": "What is the reorder level for item ITEM-7440?",
+    "answer": "Stock aging report for February 2024 has been generated. Total value: ₹462,101",
+    "category": "Report",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Credit Note",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0168",
+    "question": "What is the status of payment for invoice INV-2024-8506?",
+    "answer": "Financial reports for January 2024 have been generated and saved",
+    "category": "Compliance",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0169",
+    "question": "Can you generate the attendance report for February 2024?",
+    "answer": "Leave balance for employee EMP-5403: 28 days",
+    "category": "Configuration",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Credit Note",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0170",
+    "question": "How do I process Payment in Purchase?",
+    "answer": "Transaction processed successfully. Reference ID: REF495550",
+    "category": "Process",
+    "erp_module": "Purchase",
+    "gst_type": null,
+    "transaction_type": "E-way Bill",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0171",
+    "question": "What is the status of sales order SO-2024-3912?",
+    "answer": "Pending payment for PQR Industries: ₹737,841. Due date: 16-04-2025",
+    "category": "Analysis",
+    "erp_module": "Sales",
+    "gst_type": null,
+    "transaction_type": "Debit Note",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0172",
+    "question": "Can you provide the stock aging report for February 2024?",
+    "answer": "Stock aging report for February 2024 has been generated. Total value: ₹278,099",
+    "category": "Compliance",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Debit Note",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0173",
+    "question": "How do I file GSTR-1 for period January 2024?",
+    "answer": "GST mismatches for January 2024 have been reconciled. 191 discrepancies resolved.",
+    "category": "Configuration",
+    "erp_module": "GST",
+    "gst_type": "IGST",
+    "transaction_type": "Payment",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0174",
+    "question": "How do I issue stock for production order SO-2024-8401?",
+    "answer": "Reorder level for item ITEM-4908: 727 units",
+    "category": "Transaction",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0175",
+    "question": "What is the status of payment for invoice INV-2024-9646?",
+    "answer": "Financial reports for March 2024 have been generated and saved",
+    "category": "Compliance",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "Payment",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0176",
+    "question": "How can I generate e-way bill for invoice INV-2024-8957?",
+    "answer": "E-way bill EWB86309218 generated for invoice INV-2024-6662. Valid till: 17-04-2025",
+    "category": "Process",
+    "erp_module": "GST",
+    "gst_type": "CGST",
+    "transaction_type": "Invoice",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0177",
+    "question": "How do I process payroll for January 2024?",
+    "answer": "Employee details for EMP-8142 have been updated successfully",
+    "category": "Compliance",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Credit Note",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0178",
+    "question": "Can you provide the stock aging report for March 2024?",
+    "answer": "Stock aging report for March 2024 has been generated. Total value: ₹671,734",
+    "category": "Report",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Payment",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0179",
+    "question": "How do I reconcile GST mismatches for January 2024?",
+    "answer": "GST mismatches for March 2024 have been reconciled. 148 discrepancies resolved.",
+    "category": "Report",
+    "erp_module": "GST",
+    "gst_type": "UTGST",
+    "transaction_type": "Credit Note",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0180",
+    "question": "How do I process Debit Note in Purchase?",
+    "answer": "Transaction processed successfully. Reference ID: REF831929",
+    "category": "Report",
+    "erp_module": "Purchase",
+    "gst_type": null,
+    "transaction_type": "E-way Bill",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0181",
+    "question": "How do I process payroll for February 2024?",
+    "answer": "Recruitment status for position POS-1330: Completed",
+    "category": "Process",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0182",
+    "question": "How do I process E-way Bill in Purchase?",
+    "answer": "Transaction processed successfully. Reference ID: REF463569",
+    "category": "Report",
+    "erp_module": "Purchase",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0183",
+    "question": "What is the status of sales order SO-2024-1155?",
+    "answer": "Pending payment for RST Solutions: ₹202,560. Due date: 26-03-2025",
+    "category": "Analysis",
+    "erp_module": "Sales",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0184",
+    "question": "How do I reconcile GST mismatches for January 2024?",
+    "answer": "GSTR-1 for March 2024 has been filed successfully. ARN: AA2403249125324",
+    "category": "Transaction",
+    "erp_module": "GST",
+    "gst_type": "IGST",
+    "transaction_type": "Debit Note",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0185",
+    "question": "How do I transfer stock from Main Store to Production Store?",
+    "answer": "Current stock level for item ITEM-6285: 643 units",
+    "category": "Report",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Debit Note",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0186",
+    "question": "How do I process Payment in Purchase?",
+    "answer": "Transaction processed successfully. Reference ID: REF713968",
+    "category": "Configuration",
+    "erp_module": "Purchase",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0187",
+    "question": "How do I process payroll for February 2024?",
+    "answer": "Employee details for EMP-5219 have been updated successfully",
+    "category": "Transaction",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0188",
+    "question": "Can you generate the attendance report for January 2024?",
+    "answer": "Leave balance for employee EMP-4802: 23 days",
+    "category": "Report",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Payment",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0189",
+    "question": "What is the current outstanding amount for Supplier B?",
+    "answer": "Credit note CN-2024-3814 processed for Supplier D. Amount: ₹166,493",
+    "category": "Analysis",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "Debit Note",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0190",
+    "question": "What is the ITC amount available for March 2024?",
+    "answer": "Available ITC for March 2024: ₹769,395. Utilized: ₹247,914",
+    "category": "Process",
+    "erp_module": "GST",
+    "gst_type": "SGST",
+    "transaction_type": "Invoice",
+    "user_role": "Finance Executive"
+  },
+  {
+    "id": "FAQ0191",
+    "question": "How do I reconcile GST mismatches for March 2024?",
+    "answer": "GST mismatches for February 2024 have been reconciled. 401 discrepancies resolved.",
+    "category": "Configuration",
+    "erp_module": "GST",
+    "gst_type": "UTGST",
+    "transaction_type": "Debit Note",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0192",
+    "question": "How do I process Payment in Purchase?",
+    "answer": "Transaction processed successfully. Reference ID: REF148921",
+    "category": "Analysis",
+    "erp_module": "Purchase",
+    "gst_type": null,
+    "transaction_type": "Debit Note",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0193",
+    "question": "How do I update employee details for EMP-9793?",
+    "answer": "Recruitment status for position POS-3559: Processed",
+    "category": "Analysis",
+    "erp_module": "HR",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0194",
+    "question": "What is the reorder level for item ITEM-1522?",
+    "answer": "Stock aging report for March 2024 has been generated. Total value: ₹398,969",
+    "category": "Analysis",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0195",
+    "question": "What is the status of payment for invoice INV-2024-5373?",
+    "answer": "Outstanding amount for Supplier C: ₹890,343. Due date: 02-04-2025",
+    "category": "Analysis",
+    "erp_module": "Finance",
+    "gst_type": null,
+    "transaction_type": "Payment",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0196",
+    "question": "How do I process Invoice in Purchase?",
+    "answer": "Transaction processed successfully. Reference ID: REF367028",
+    "category": "Transaction",
+    "erp_module": "Purchase",
+    "gst_type": null,
+    "transaction_type": "Credit Note",
+    "user_role": "Purchase Officer"
+  },
+  {
+    "id": "FAQ0197",
+    "question": "How do I process E-way Bill in Purchase?",
+    "answer": "Transaction processed successfully. Reference ID: REF602339",
+    "category": "Process",
+    "erp_module": "Purchase",
+    "gst_type": null,
+    "transaction_type": "Return",
+    "user_role": "Sales Manager"
+  },
+  {
+    "id": "FAQ0198",
+    "question": "What is the current stock level for item ITEM-3876?",
+    "answer": "Reorder level for item ITEM-7656: 273 units",
+    "category": "Analysis",
+    "erp_module": "Inventory",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "Inventory Manager"
+  },
+  {
+    "id": "FAQ0199",
+    "question": "How do I process Payment in Purchase?",
+    "answer": "Transaction processed successfully. Reference ID: REF975970",
+    "category": "Report",
+    "erp_module": "Purchase",
+    "gst_type": null,
+    "transaction_type": "Invoice",
+    "user_role": "GST Officer"
+  },
+  {
+    "id": "FAQ0200",
+    "question": "What is the status of sales order SO-2024-4547?",
+    "answer": "Pending payment for RST Solutions: ₹961,639. Due date: 07-04-2025",
+    "category": "Process",
+    "erp_module": "Sales",
+    "gst_type": null,
+    "transaction_type": "Payment",
+    "user_role": "Sales Manager"
+  }
+]

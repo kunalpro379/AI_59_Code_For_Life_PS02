@@ -1,0 +1,325 @@
+[
+  {
+    "role_id": "ROL6740",
+    "role_name": "Finance Manager",
+    "description": "Reason vote ability college want.\nArm center staff act this. Detail mission exactly day opportunity large. Phone raise spend least population middle.",
+    "permissions": [
+      "Edit"
+    ],
+    "is_active": false,
+    "created_date": "2024-08-14T20:36:45",
+    "last_updated": "2025-02-26T12:44:14"
+  },
+  {
+    "role_id": "ROL9356",
+    "role_name": "Sales Manager",
+    "description": "Training perform fire analysis need town enjoy. Since quality try hot factor same. Risk hour teacher left world from.\nNothing black pretty listen ready clearly. Up message course trouble.",
+    "permissions": [
+      "Print",
+      "Edit",
+      "Approve",
+      "Export"
+    ],
+    "is_active": true,
+    "created_date": "2024-08-22T18:49:17",
+    "last_updated": "2024-07-17T01:47:51"
+  },
+  {
+    "role_id": "ROL963",
+    "role_name": "HR Manager",
+    "description": "Enter green city look maintain management able reduce. Real report free later opportunity school. Eight resource group future various. Either knowledge new floor team coach.",
+    "permissions": [
+      "Delete"
+    ],
+    "is_active": false,
+    "created_date": "2024-01-10T06:37:33",
+    "last_updated": "2024-04-28T01:19:57"
+  },
+  {
+    "role_id": "ROL9642",
+    "role_name": "HR Manager",
+    "description": "Force eye usually evening seven can. Lay near board able machine pull. Stand style available argue.",
+    "permissions": [
+      "Import",
+      "Print",
+      "Create",
+      "View",
+      "Edit",
+      "Approve",
+      "Export",
+      "Delete",
+      "Share",
+      "Admin"
+    ],
+    "is_active": true,
+    "created_date": "2023-05-11T14:45:17",
+    "last_updated": "2024-11-24T19:29:25"
+  },
+  {
+    "role_id": "ROL6820",
+    "role_name": "Sales Manager",
+    "description": "Region out hit energy company. Anything country something political would. Area partner clearly energy most carry expert happy. Themselves rock weight build force.",
+    "permissions": [
+      "Reject",
+      "View"
+    ],
+    "is_active": true,
+    "created_date": "2023-12-23T06:26:21",
+    "last_updated": "2024-05-29T05:18:02"
+  },
+  {
+    "role_id": "ROL1422",
+    "role_name": "Sales Manager",
+    "description": "Page though him base couple. Necessary play for. Shoulder employee town usually I necessary.\nEver trouble share thousand whom assume. Age organization continue visit final.",
+    "permissions": [
+      "Share",
+      "Print",
+      "Admin",
+      "Edit",
+      "Export",
+      "Delete",
+      "Import"
+    ],
+    "is_active": false,
+    "created_date": "2023-12-22T02:59:50",
+    "last_updated": "2024-05-25T03:18:52"
+  },
+  {
+    "role_id": "ROL4636",
+    "role_name": "Sales Manager",
+    "description": "Fine admit national stock consider I. Yeah into appear wide during firm. Mrs hope certainly page high order.",
+    "permissions": [
+      "Create",
+      "Share",
+      "Delete",
+      "Print",
+      "Edit",
+      "Approve",
+      "Export",
+      "Import",
+      "Reject"
+    ],
+    "is_active": false,
+    "created_date": "2024-11-06T23:01:19",
+    "last_updated": "2025-02-13T13:20:12"
+  },
+  {
+    "role_id": "ROL2662",
+    "role_name": "Employee",
+    "description": "Heart radio state let human end. Story everything road identify carry tonight last. Practice idea response eat audience action tonight.",
+    "permissions": [
+      "Print",
+      "Approve",
+      "View",
+      "Share",
+      "Edit",
+      "Reject",
+      "Admin",
+      "Create",
+      "Import",
+      "Delete",
+      "Export"
+    ],
+    "is_active": false,
+    "created_date": "2023-08-30T22:17:43",
+    "last_updated": "2024-03-31T02:43:29"
+  },
+  {
+    "role_id": "ROL6071",
+    "role_name": "HR Manager",
+    "description": "Call may second site significant television civil dinner. Garden public challenge job race.",
+    "permissions": [
+      "Import",
+      "View",
+      "Delete",
+      "Create",
+      "Approve",
+      "Admin",
+      "Print"
+    ],
+    "is_active": true,
+    "created_date": "2024-09-15T10:24:51",
+    "last_updated": "2024-06-16T16:29:36"
+  },
+  {
+    "role_id": "ROL6330",
+    "role_name": "Quality Manager",
+    "description": "School federal expect if lead. Property our huge ok have company which.\nMoney hair peace. Tv catch test nor tend local office upon. International effort with along fear technology apply adult.",
+    "permissions": [
+      "Import",
+      "Approve",
+      "Print",
+      "Create",
+      "Share",
+      "View",
+      "Delete",
+      "Edit"
+    ],
+    "is_active": false,
+    "created_date": "2023-12-19T19:36:54",
+    "last_updated": "2024-06-12T02:03:18"
+  },
+  {
+    "role_id": "ROL601",
+    "role_name": "Employee",
+    "description": "Century pull growth place employee care bag. Similar hit maybe up would sport likely. Enter company visit measure majority join meet.",
+    "permissions": [
+      "Delete",
+      "Edit",
+      "Export",
+      "Import",
+      "Create"
+    ],
+    "is_active": true,
+    "created_date": "2024-06-30T17:21:18",
+    "last_updated": "2024-08-15T21:27:42"
+  },
+  {
+    "role_id": "ROL978",
+    "role_name": "Quality Manager",
+    "description": "Company per have service. Short drop role. News question reality at during manage ask.\nCould decision imagine civil soon short with whole. Culture source budget turn book drug kind.",
+    "permissions": [
+      "Share"
+    ],
+    "is_active": true,
+    "created_date": "2024-10-10T10:47:43",
+    "last_updated": "2024-10-16T07:06:39"
+  },
+  {
+    "role_id": "ROL2982",
+    "role_name": "Employee",
+    "description": "Turn painting push itself though down. Listen painting we pass force. Make often according by campaign knowledge seem. Author arm already plan citizen.",
+    "permissions": [
+      "Create",
+      "Share",
+      "Export",
+      "Edit",
+      "Import",
+      "Print",
+      "Approve",
+      "Reject",
+      "View"
+    ],
+    "is_active": true,
+    "created_date": "2023-07-22T14:14:37",
+    "last_updated": "2024-12-08T03:54:49"
+  },
+  {
+    "role_id": "ROL4268",
+    "role_name": "Supervisor",
+    "description": "Sense later agree someone that American. Number next control growth poor necessary final. Produce guy attention space anyone scene father.\nBring major example again six compare. Cell head fire.",
+    "permissions": [
+      "Reject",
+      "Delete",
+      "Admin",
+      "Export",
+      "Edit"
+    ],
+    "is_active": true,
+    "created_date": "2024-12-11T04:34:12",
+    "last_updated": "2025-02-02T16:04:32"
+  },
+  {
+    "role_id": "ROL8166",
+    "role_name": "Employee",
+    "description": "Cold item democratic instead address. Dog hit last peace sing growth party. Give cup upon together.",
+    "permissions": [
+      "Admin",
+      "Delete",
+      "Edit"
+    ],
+    "is_active": false,
+    "created_date": "2024-12-12T07:50:21",
+    "last_updated": "2025-01-18T04:08:08"
+  },
+  {
+    "role_id": "ROL6759",
+    "role_name": "IT Admin",
+    "description": "View book this act Mrs movie. Wall provide force audience city. Wrong conference I serve church.\nTax piece house. Yes hospital director. Concern although responsibility campaign wind event at.",
+    "permissions": [
+      "Print",
+      "Approve",
+      "View",
+      "Delete",
+      "Admin",
+      "Reject",
+      "Share",
+      "Export",
+      "Edit",
+      "Import",
+      "Create"
+    ],
+    "is_active": true,
+    "created_date": "2023-12-17T14:29:12",
+    "last_updated": "2025-02-27T09:49:26"
+  },
+  {
+    "role_id": "ROL9292",
+    "role_name": "Supervisor",
+    "description": "Make describe best happen yet. Find claim west white.\nPlace close once natural. Safe eight left single draw what. Despite single able support his lead.",
+    "permissions": [
+      "Import",
+      "Export",
+      "Approve",
+      "Share",
+      "Reject",
+      "Admin",
+      "Create",
+      "Edit"
+    ],
+    "is_active": true,
+    "created_date": "2024-08-26T04:33:12",
+    "last_updated": "2024-06-06T12:37:18"
+  },
+  {
+    "role_id": "ROL2319",
+    "role_name": "Finance Manager",
+    "description": "Science son statement organization sister. Agree event grow new together business work.\nHuman rock information name market. Network now Mr full fall during. Economic would black health game table as.",
+    "permissions": [
+      "Create",
+      "Admin",
+      "Edit"
+    ],
+    "is_active": true,
+    "created_date": "2024-01-07T13:47:27",
+    "last_updated": "2024-12-28T20:09:29"
+  },
+  {
+    "role_id": "ROL8230",
+    "role_name": "Supervisor",
+    "description": "Beat measure young just shoulder. Order fill each line seek apply. Science edge get son.",
+    "permissions": [
+      "Create",
+      "Delete",
+      "Print",
+      "Share",
+      "Edit",
+      "Reject",
+      "Export",
+      "Approve",
+      "Admin",
+      "Import"
+    ],
+    "is_active": false,
+    "created_date": "2024-11-21T19:58:29",
+    "last_updated": "2024-12-05T18:20:22"
+  },
+  {
+    "role_id": "ROL9215",
+    "role_name": "Supervisor",
+    "description": "Agree and south. Matter hospital community treatment ability region. Tv just section appear recognize heart seven.\nGroup state early can since full since. Value just help result.",
+    "permissions": [
+      "View",
+      "Export",
+      "Share",
+      "Import",
+      "Approve",
+      "Print",
+      "Create",
+      "Reject"
+    ],
+    "is_active": false,
+    "created_date": "2024-08-24T21:21:12",
+    "last_updated": "2025-02-12T18:54:57"
+  }
+]

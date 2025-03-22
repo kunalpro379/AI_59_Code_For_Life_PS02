@@ -1,0 +1,30 @@
+[
+  {
+    "report_id": "GSTR916643758",
+    "report_type": "GSTR-9C",
+    "financial_year": "2024",
+    "generation_date": "2024-04-04T19:12:28",
+    "total_turnover": 29079636.34,
+    "total_tax_paid": 5153233.59,
+    "total_input_tax_credit": 3717163.79,
+    "audit_status": "Final",
+    "auditor_name": "Anthony Daniels",
+    "created_by": "Patricia Willis",
+    "created_date": "2024-04-04T19:12:28",
+    "last_updated": "2024-04-06T19:12:28"
+  },
+  {
+    "report_id": "GSTR965108179",
+    "report_type": "GSTR-9",
+    "financial_year": "2024",
+    "generation_date": "2024-09-13T14:14:00",
+    "total_turnover": 52372319.9,
+    "total_tax_paid": 8169185.0,
+    "total_input_tax_credit": 2701828.74,
+    "audit_status": "Filed",
+    "auditor_name": "Jeffrey Savage",
+    "created_by": "Shawn Powell PhD",
+    "created_date": "2024-09-13T14:14:00",
+    "last_updated": "2024-09-16T14:14:00"
+  }
+]

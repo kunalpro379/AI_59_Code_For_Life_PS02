@@ -1,0 +1,141 @@
+[
+  {
+    "zone_id": "a21b9d07-d583-4660-92cd-46f7222f7168",
+    "zone_name": "Main Store",
+    "location_code": "LOC696296",
+    "description": "Style majority affect young type nice radio would. If certainly often thought budget history protect same.\nSociety card policy tax. Tv teach article but employee degree these executive.",
+    "capacity": 2537,
+    "current_occupancy": 44,
+    "temperature_controlled": false,
+    "temperature_range": {
+      "min": 23,
+      "max": 27
+    },
+    "status": "Full",
+    "created_date": "2024-08-20T10:51:13",
+    "last_updated": "2024-08-31T21:29:01"
+  },
+  {
+    "zone_id": "c6516d29-6f4a-455e-a1a4-d1ca36aa7a54",
+    "zone_name": "Quality Control Store",
+    "location_code": "LOC866128",
+    "description": "Maintain recognize court trip while. Religious second nice personal human wait. Worker wish party member fall right.",
+    "capacity": 9961,
+    "current_occupancy": 41,
+    "temperature_controlled": true,
+    "temperature_range": null,
+    "status": "Inactive",
+    "created_date": "2024-06-21T11:17:44",
+    "last_updated": "2024-06-09T00:42:18"
+  },
+  {
+    "zone_id": "06576a4b-3c70-4e88-a380-f0d684644597",
+    "zone_name": "Quality Control Store",
+    "location_code": "LOC779387",
+    "description": "North suggest appear.\nChoice magazine home direction could. Ten president ahead bring. Impact nature or involve whose value.",
+    "capacity": 9163,
+    "current_occupancy": 40,
+    "temperature_controlled": true,
+    "temperature_range": null,
+    "status": "Inactive",
+    "created_date": "2024-04-24T04:43:06",
+    "last_updated": "2024-06-13T07:05:23"
+  },
+  {
+    "zone_id": "d6b58518-fc69-4a52-ab8d-5563d57d3ca8",
+    "zone_name": "Raw Material Store",
+    "location_code": "LOC923795",
+    "description": "We staff religious fact music theory push option. Fund design imagine can represent information. Memory fight behind hit. Value heavy bit top whole star.",
+    "capacity": 5904,
+    "current_occupancy": 56,
+    "temperature_controlled": true,
+    "temperature_range": null,
+    "status": "Maintenance",
+    "created_date": "2023-06-24T02:30:51",
+    "last_updated": "2025-02-14T01:28:08"
+  },
+  {
+    "zone_id": "05b737b1-6163-43f9-881f-6feea1e41331",
+    "zone_name": "Raw Material Store",
+    "location_code": "LOC876647",
+    "description": "Recent admit common letter. Lead result difference head current. Scene concern avoid report land letter.\nBetween make meet since. Tough environmental true performance. Nice customer ask try.",
+    "capacity": 9798,
+    "current_occupancy": 79,
+    "temperature_controlled": false,
+    "temperature_range": {
+      "min": 18,
+      "max": 25
+    },
+    "status": "Active",
+    "created_date": "2023-12-15T01:48:56",
+    "last_updated": "2025-01-14T06:06:32"
+  },
+  {
+    "zone_id": "231190ad-4ef5-4bf3-a160-a79aceefb794",
+    "zone_name": "Raw Material Store",
+    "location_code": "LOC883196",
+    "description": "Under decision building learn try choice rule. Accept term west. Would state what financial.\nAffect wait couple really. Card board long tell.",
+    "capacity": 1008,
+    "current_occupancy": 46,
+    "temperature_controlled": false,
+    "temperature_range": {
+      "min": 24,
+      "max": 30
+    },
+    "status": "Active",
+    "created_date": "2023-08-25T03:16:14",
+    "last_updated": "2024-09-17T00:13:07"
+  },
+  {
+    "zone_id": "489dec09-3ad0-494d-b101-d3866637e56c",
+    "zone_name": "Raw Material Store",
+    "location_code": "LOC39573",
+    "description": "Home song protect usually fast discussion.\nRest type capital exactly floor include. Wonder difficult anything image fly though amount.",
+    "capacity": 3223,
+    "current_occupancy": 0,
+    "temperature_controlled": false,
+    "temperature_range": null,
+    "status": "Full",
+    "created_date": "2025-03-06T09:00:58",
+    "last_updated": "2024-05-25T15:47:34"
+  },
+  {
+    "zone_id": "2ef94df3-8d4e-474d-8ce0-d91c209c6b62",
+    "zone_name": "Finished Goods Store",
+    "location_code": "LOC647188",
+    "description": "Actually certain join hospital claim. Note industry well center. Soldier watch painting consider miss. Camera chance level read talk young.",
+    "capacity": 4591,
+    "current_occupancy": 9,
+    "temperature_controlled": true,
+    "temperature_range": null,
+    "status": "Inactive",
+    "created_date": "2025-02-12T14:43:20",
+    "last_updated": "2024-04-20T21:15:02"
+  },
+  {
+    "zone_id": "513742d9-76f9-4505-959a-e903c1f0d242",
+    "zone_name": "Stock Preparation Store",
+    "location_code": "LOC522352",
+    "description": "Decade factor street near military bill. Scene imagine career contain ready.",
+    "capacity": 1547,
+    "current_occupancy": 23,
+    "temperature_controlled": false,
+    "temperature_range": null,
+    "status": "Active",
+    "created_date": "2024-09-12T04:25:25",
+    "last_updated": "2025-03-06T04:21:12"
+  },
+  {
+    "zone_id": "64848b1f-bb32-4ff0-9efa-7d0fc21d990d",
+    "zone_name": "Main Store",
+    "location_code": "LOC347107",
+    "description": "Cover change goal show. Until TV return here yard.\nGas live computer billion customer explain. Coach production fight record coach current.",
+    "capacity": 8180,
+    "current_occupancy": 33,
+    "temperature_controlled": false,
+    "temperature_range": null,
+    "status": "Full",
+    "created_date": "2023-12-11T14:01:13",
+    "last_updated": "2024-04-21T07:57:35"
+  }
+]

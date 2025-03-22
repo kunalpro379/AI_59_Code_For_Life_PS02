@@ -1,0 +1,2473 @@
+[
+  {
+    "partner_id": "2e4553e6-9320-479e-8ba2-8bce104fbcf6",
+    "partner_code": "TP23740670",
+    "partner_name": "Evans, Mathews and Paul",
+    "contact_person": "April Hart",
+    "email": "christopherbrooks@example.net",
+    "phone": "897.972.6505x31753",
+    "address": "210 Stacey Haven\nSouth Johnland, AR 17236",
+    "gst_number": "GST4150974670",
+    "pan_number": "PAN5524549074",
+    "service_areas": [
+      "Local",
+      "Regional"
+    ],
+    "shipping_modes": [
+      "SHM89282",
+      "SHM266290",
+      "SHM441676",
+      "SHM917271",
+      "SHM802524"
+    ],
+    "rating": 2.3,
+    "status": "Suspended",
+    "created_date": "2023-11-15T18:26:59",
+    "last_updated": "2024-04-08T15:04:30"
+  },
+  {
+    "partner_id": "30c43143-f03c-4d97-8008-7acb62c583db",
+    "partner_code": "TP57856870",
+    "partner_name": "Freeman-Williams",
+    "contact_person": "Dr. Michael Brooks",
+    "email": "tiffany24@example.com",
+    "phone": "+1-974-958-5992x245",
+    "address": "2631 Brenda Valley Suite 230\nRachelburgh, TX 27004",
+    "gst_number": "GST2050835779",
+    "pan_number": "PAN4729610753",
+    "service_areas": [
+      "Local",
+      "Regional",
+      "International",
+      "National"
+    ],
+    "shipping_modes": [
+      "SHM143894",
+      "SHM940310"
+    ],
+    "rating": 4.6,
+    "status": "Active",
+    "created_date": "2025-03-13T00:38:05",
+    "last_updated": "2024-07-05T10:46:08"
+  },
+  {
+    "partner_id": "67c57fc2-04c9-4f1c-92dc-9a43a8b10c16",
+    "partner_code": "TP10348429",
+    "partner_name": "Reed-Lopez",
+    "contact_person": "Becky Oneal",
+    "email": "martinkendra@example.com",
+    "phone": "508-406-6308",
+    "address": "00530 Brian Lodge\nNorth Dalton, IL 72886",
+    "gst_number": "GST953708016",
+    "pan_number": "PAN140033889",
+    "service_areas": [
+      "International",
+      "National",
+      "Local"
+    ],
+    "shipping_modes": [
+      "SHM644049",
+      "SHM366311"
+    ],
+    "rating": 1.4,
+    "status": "Suspended",
+    "created_date": "2025-02-22T17:54:40",
+    "last_updated": "2024-05-19T18:52:48"
+  },
+  {
+    "partner_id": "cf688b3b-a038-4f63-bd10-3747c0c71c1a",
+    "partner_code": "TP18344699",
+    "partner_name": "Smith-Perez",
+    "contact_person": "Todd Nunez",
+    "email": "nathanarmstrong@example.org",
+    "phone": "729-745-1002x8739",
+    "address": "4498 Melissa Wall Suite 811\nErikabury, LA 70637",
+    "gst_number": "GST7938649078",
+    "pan_number": "PAN1222745570",
+    "service_areas": [
+      "Regional"
+    ],
+    "shipping_modes": [
+      "SHM501160",
+      "SHM279007"
+    ],
+    "rating": 1.8,
+    "status": "Suspended",
+    "created_date": "2023-08-27T03:37:47",
+    "last_updated": "2025-02-21T14:15:24"
+  },
+  {
+    "partner_id": "1affab77-1bd3-4567-b456-da3f32ae50e7",
+    "partner_code": "TP89063158",
+    "partner_name": "Esparza, Kramer and Odonnell",
+    "contact_person": "Theresa Riley",
+    "email": "renee43@example.org",
+    "phone": "(302)862-8725x029",
+    "address": "3931 Sandra Junction Apt. 138\nPort Maryside, AS 83918",
+    "gst_number": "GST5619050057",
+    "pan_number": "PAN6005596294",
+    "service_areas": [
+      "Regional"
+    ],
+    "shipping_modes": [
+      "SHM505656",
+      "SHM162580",
+      "SHM664468",
+      "SHM862320"
+    ],
+    "rating": 2.6,
+    "status": "Suspended",
+    "created_date": "2024-06-01T12:18:48",
+    "last_updated": "2024-04-09T03:43:15"
+  },
+  {
+    "partner_id": "7a990a8f-9fcc-43f5-8189-0c12474f6847",
+    "partner_code": "TP84974158",
+    "partner_name": "Campbell-Williams",
+    "contact_person": "Danny Espinoza",
+    "email": "fguzman@example.net",
+    "phone": "(338)761-3809",
+    "address": "60281 Clements View Suite 682\nJohnshire, SD 53068",
+    "gst_number": "GST7187092693",
+    "pan_number": "PAN4536005001",
+    "service_areas": [
+      "Regional",
+      "Local"
+    ],
+    "shipping_modes": [
+      "SHM869357",
+      "SHM752586",
+      "SHM835585",
+      "SHM101681",
+      "SHM662889"
+    ],
+    "rating": 1.8,
+    "status": "Active",
+    "created_date": "2024-08-15T12:39:00",
+    "last_updated": "2025-03-19T05:48:35"
+  },
+  {
+    "partner_id": "f847a5c2-05e8-4a9e-99b9-cc2ed0f8c791",
+    "partner_code": "TP95782143",
+    "partner_name": "Perez-Franklin",
+    "contact_person": "Lisa Thomas",
+    "email": "sethpatterson@example.org",
+    "phone": "782-929-9942",
+    "address": "PSC 0528, Box 9990\nAPO AE 91057",
+    "gst_number": "GST8474085626",
+    "pan_number": "PAN9089003708",
+    "service_areas": [
+      "National"
+    ],
+    "shipping_modes": [
+      "SHM259599",
+      "SHM116639",
+      "SHM398776",
+      "SHM96675",
+      "SHM731914"
+    ],
+    "rating": 1.6,
+    "status": "Suspended",
+    "created_date": "2025-01-27T00:27:42",
+    "last_updated": "2024-09-19T22:15:46"
+  },
+  {
+    "partner_id": "69452253-d8ac-4e9b-bc02-944ee99fbd39",
+    "partner_code": "TP87679468",
+    "partner_name": "Reed, Robinson and Garrett",
+    "contact_person": "Kenneth Clark",
+    "email": "wongrichard@example.org",
+    "phone": "427-235-2710",
+    "address": "6976 Bethany Run\nMeganland, DC 71882",
+    "gst_number": "GST7294317591",
+    "pan_number": "PAN2825142439",
+    "service_areas": [
+      "International",
+      "Regional"
+    ],
+    "shipping_modes": [
+      "SHM920887",
+      "SHM174568",
+      "SHM205935",
+      "SHM251714",
+      "SHM928698"
+    ],
+    "rating": 3.0,
+    "status": "Suspended",
+    "created_date": "2024-10-04T01:52:57",
+    "last_updated": "2025-03-10T20:09:55"
+  },
+  {
+    "partner_id": "9589aac7-138f-4dd7-84f0-b04b9fd12468",
+    "partner_code": "TP54996047",
+    "partner_name": "Garner LLC",
+    "contact_person": "Monica Peterson",
+    "email": "wayne76@example.com",
+    "phone": "511-214-4249x65384",
+    "address": "4481 Reese Village\nKristyport, ME 41568",
+    "gst_number": "GST3313890813",
+    "pan_number": "PAN5040119785",
+    "service_areas": [
+      "Local",
+      "International",
+      "Regional",
+      "National"
+    ],
+    "shipping_modes": [
+      "SHM552641",
+      "SHM675167",
+      "SHM486507",
+      "SHM417337"
+    ],
+    "rating": 4.3,
+    "status": "Inactive",
+    "created_date": "2023-11-20T20:29:15",
+    "last_updated": "2025-03-19T09:07:49"
+  },
+  {
+    "partner_id": "3d84b608-020b-4744-a29a-42812e6afccf",
+    "partner_code": "TP36568964",
+    "partner_name": "Conley LLC",
+    "contact_person": "Michael Bullock",
+    "email": "jessicacook@example.org",
+    "phone": "+1-341-282-5983x08621",
+    "address": "26564 Scott Wall Apt. 844\nPort Marie, NM 82912",
+    "gst_number": "GST6531977177",
+    "pan_number": "PAN9320312916",
+    "service_areas": [
+      "Local"
+    ],
+    "shipping_modes": [
+      "SHM849198",
+      "SHM155994",
+      "SHM74274"
+    ],
+    "rating": 4.1,
+    "status": "Suspended",
+    "created_date": "2024-12-19T00:51:31",
+    "last_updated": "2024-10-24T20:46:34"
+  },
+  {
+    "partner_id": "c56f7d0c-ba0a-4ed8-bba3-647b160fda46",
+    "partner_code": "TP35534524",
+    "partner_name": "Lawrence and Sons",
+    "contact_person": "Todd Stokes",
+    "email": "qcrawford@example.org",
+    "phone": "6898537355",
+    "address": "9660 Juan Ramp\nSamuelburgh, MT 44164",
+    "gst_number": "GST7869746853",
+    "pan_number": "PAN7250766584",
+    "service_areas": [
+      "National",
+      "Local",
+      "International"
+    ],
+    "shipping_modes": [
+      "SHM825902",
+      "SHM103569",
+      "SHM983618",
+      "SHM698480",
+      "SHM718072"
+    ],
+    "rating": 1.4,
+    "status": "Active",
+    "created_date": "2024-05-16T04:50:49",
+    "last_updated": "2024-12-11T08:04:18"
+  },
+  {
+    "partner_id": "ffeb7ac4-b4e1-40a9-8398-98440c6b97bc",
+    "partner_code": "TP72401514",
+    "partner_name": "Hall Inc",
+    "contact_person": "Christine Gomez",
+    "email": "tylerlee@example.com",
+    "phone": "+1-237-709-3015",
+    "address": "28018 Jones Rue\nNorth Ashleymouth, FL 98973",
+    "gst_number": "GST3274369619",
+    "pan_number": "PAN6088671798",
+    "service_areas": [
+      "Local",
+      "National"
+    ],
+    "shipping_modes": [
+      "SHM694535",
+      "SHM349407",
+      "SHM796913",
+      "SHM30507"
+    ],
+    "rating": 1.4,
+    "status": "Inactive",
+    "created_date": "2024-02-05T10:22:15",
+    "last_updated": "2024-09-10T13:14:35"
+  },
+  {
+    "partner_id": "de0867b5-673f-43ce-ab39-23f8804a12a1",
+    "partner_code": "TP68893676",
+    "partner_name": "Schultz PLC",
+    "contact_person": "Jonathan Thompson",
+    "email": "ppatel@example.net",
+    "phone": "(389)450-7682x26885",
+    "address": "Unit 1481 Box 9423\nDPO AP 27232",
+    "gst_number": "GST5031380802",
+    "pan_number": "PAN6657743488",
+    "service_areas": [
+      "National",
+      "International",
+      "Regional",
+      "Local"
+    ],
+    "shipping_modes": [
+      "SHM963168"
+    ],
+    "rating": 2.9,
+    "status": "Suspended",
+    "created_date": "2024-05-22T03:01:41",
+    "last_updated": "2024-08-20T16:16:43"
+  },
+  {
+    "partner_id": "9fc6fc55-c417-4d2f-b5ca-e94645e6c081",
+    "partner_code": "TP30800197",
+    "partner_name": "Phelps-Johnson",
+    "contact_person": "Brenda Lynn",
+    "email": "riverabrandon@example.com",
+    "phone": "001-884-796-1509x69413",
+    "address": "8030 John Pike\nNew Michaelstad, CT 02896",
+    "gst_number": "GST5928258811",
+    "pan_number": "PAN9526156076",
+    "service_areas": [
+      "National"
+    ],
+    "shipping_modes": [
+      "SHM489410",
+      "SHM548063",
+      "SHM433158",
+      "SHM299303",
+      "SHM443956"
+    ],
+    "rating": 4.1,
+    "status": "Suspended",
+    "created_date": "2023-12-18T08:05:43",
+    "last_updated": "2024-12-04T04:09:59"
+  },
+  {
+    "partner_id": "dd9b340d-a2ac-4f53-9607-1985b06c5159",
+    "partner_code": "TP67943648",
+    "partner_name": "Moran, Mclaughlin and Smith",
+    "contact_person": "Xavier Rodriguez",
+    "email": "heather19@example.com",
+    "phone": "001-204-727-6083x84445",
+    "address": "0577 Lynch Ports\nEast Margaretport, MD 44672",
+    "gst_number": "GST5999402373",
+    "pan_number": "PAN4752368938",
+    "service_areas": [
+      "Regional",
+      "National",
+      "International",
+      "Local"
+    ],
+    "shipping_modes": [
+      "SHM864190",
+      "SHM696914"
+    ],
+    "rating": 3.0,
+    "status": "Active",
+    "created_date": "2024-11-14T10:18:55",
+    "last_updated": "2025-01-27T12:29:25"
+  },
+  {
+    "partner_id": "e0a7010b-663b-4497-8f46-b26f0f73f2bd",
+    "partner_code": "TP53437700",
+    "partner_name": "Walker-Nguyen",
+    "contact_person": "Tyler Hendrix",
+    "email": "daviswilliam@example.org",
+    "phone": "+1-272-582-0744x78232",
+    "address": "1832 Roth Roads Apt. 711\nKellerbury, AR 77161",
+    "gst_number": "GST2575166226",
+    "pan_number": "PAN3108662336",
+    "service_areas": [
+      "International",
+      "Local",
+      "Regional",
+      "National"
+    ],
+    "shipping_modes": [
+      "SHM146493",
+      "SHM362113",
+      "SHM763314",
+      "SHM98973",
+      "SHM649409"
+    ],
+    "rating": 3.6,
+    "status": "Inactive",
+    "created_date": "2023-05-12T19:05:14",
+    "last_updated": "2025-03-20T20:12:51"
+  },
+  {
+    "partner_id": "5fc7e906-ab88-42bc-812b-057e347a3ca9",
+    "partner_code": "TP58538082",
+    "partner_name": "Jensen Inc",
+    "contact_person": "Jennifer Yoder",
+    "email": "aliciahowell@example.net",
+    "phone": "001-714-229-1645x8715",
+    "address": "01906 Newman Walks\nNew Christopherbury, SC 60282",
+    "gst_number": "GST41638946",
+    "pan_number": "PAN7150704721",
+    "service_areas": [
+      "Regional",
+      "International",
+      "National",
+      "Local"
+    ],
+    "shipping_modes": [
+      "SHM282923",
+      "SHM264618",
+      "SHM301839",
+      "SHM880158",
+      "SHM583281"
+    ],
+    "rating": 2.6,
+    "status": "Inactive",
+    "created_date": "2024-03-29T13:41:13",
+    "last_updated": "2024-12-29T12:26:37"
+  },
+  {
+    "partner_id": "6052cb40-a91f-4bfc-8df6-d6e7e9dbb8e1",
+    "partner_code": "TP42175421",
+    "partner_name": "Garcia-Cain",
+    "contact_person": "Matthew Hall",
+    "email": "sarabush@example.com",
+    "phone": "744.236.1592x6660",
+    "address": "19347 Williams Gardens Suite 193\nJenniferberg, LA 42267",
+    "gst_number": "GST3505671730",
+    "pan_number": "PAN4294186183",
+    "service_areas": [
+      "Regional",
+      "International"
+    ],
+    "shipping_modes": [
+      "SHM704414",
+      "SHM844163",
+      "SHM519249",
+      "SHM297544",
+      "SHM876598"
+    ],
+    "rating": 1.3,
+    "status": "Suspended",
+    "created_date": "2023-03-29T21:54:02",
+    "last_updated": "2024-05-04T05:08:59"
+  },
+  {
+    "partner_id": "73cff1ed-a370-4af7-98d3-468e2a97e19f",
+    "partner_code": "TP14896343",
+    "partner_name": "Mayer PLC",
+    "contact_person": "Cindy Brooks",
+    "email": "cochrananthony@example.org",
+    "phone": "001-937-215-1957x422",
+    "address": "19232 Harris Mountains Suite 692\nPort Lisafort, CO 03415",
+    "gst_number": "GST7925982789",
+    "pan_number": "PAN5063846056",
+    "service_areas": [
+      "Local"
+    ],
+    "shipping_modes": [
+      "SHM126381"
+    ],
+    "rating": 1.2,
+    "status": "Inactive",
+    "created_date": "2023-10-05T22:14:32",
+    "last_updated": "2024-11-23T09:53:46"
+  },
+  {
+    "partner_id": "c61d4138-3e9c-440c-bd89-d9d3cbac803b",
+    "partner_code": "TP52137743",
+    "partner_name": "Gray and Sons",
+    "contact_person": "Jessica Banks",
+    "email": "waltonbrian@example.com",
+    "phone": "323.652.5715",
+    "address": "31404 Gary Street\nDustinbury, NV 83240",
+    "gst_number": "GST2149884246",
+    "pan_number": "PAN9217916119",
+    "service_areas": [
+      "Regional",
+      "Local",
+      "National",
+      "International"
+    ],
+    "shipping_modes": [
+      "SHM444599",
+      "SHM506981",
+      "SHM807642",
+      "SHM836421"
+    ],
+    "rating": 3.7,
+    "status": "Active",
+    "created_date": "2023-06-02T07:23:34",
+    "last_updated": "2024-10-10T15:56:02"
+  },
+  {
+    "partner_id": "f845edc1-48c9-4c8d-9a3d-acbc194b78b0",
+    "partner_code": "TP63711095",
+    "partner_name": "Reyes Group",
+    "contact_person": "Roberta Gomez DDS",
+    "email": "jenniferdavis@example.org",
+    "phone": "8563331874",
+    "address": "721 Brent Forest\nBrownview, NH 80146",
+    "gst_number": "GST502926523",
+    "pan_number": "PAN6054174725",
+    "service_areas": [
+      "Regional",
+      "International",
+      "National"
+    ],
+    "shipping_modes": [
+      "SHM986412",
+      "SHM883217",
+      "SHM428886"
+    ],
+    "rating": 3.5,
+    "status": "Suspended",
+    "created_date": "2023-05-07T14:27:28",
+    "last_updated": "2024-04-13T15:00:39"
+  },
+  {
+    "partner_id": "f35954ff-73cc-4e05-9891-ecfee6fc72a9",
+    "partner_code": "TP50164425",
+    "partner_name": "Bradford Group",
+    "contact_person": "Lisa Nelson",
+    "email": "qwright@example.net",
+    "phone": "2403022276",
+    "address": "1053 Jessica Corners\nNorth Tyrone, OR 05473",
+    "gst_number": "GST8809925235",
+    "pan_number": "PAN8909775298",
+    "service_areas": [
+      "Regional",
+      "Local"
+    ],
+    "shipping_modes": [
+      "SHM214223",
+      "SHM393945",
+      "SHM569030",
+      "SHM60404",
+      "SHM516163"
+    ],
+    "rating": 4.0,
+    "status": "Inactive",
+    "created_date": "2023-04-25T00:45:37",
+    "last_updated": "2024-06-30T01:47:57"
+  },
+  {
+    "partner_id": "aeb370dd-2c93-42e9-a8bb-5559cdf369bf",
+    "partner_code": "TP84295575",
+    "partner_name": "Welch-Parker",
+    "contact_person": "Richard Hartman",
+    "email": "aaronsteele@example.org",
+    "phone": "776.696.7072",
+    "address": "935 Reid Parks\nCampbellmouth, NM 96852",
+    "gst_number": "GST567496164",
+    "pan_number": "PAN7303900583",
+    "service_areas": [
+      "Regional",
+      "National",
+      "International",
+      "Local"
+    ],
+    "shipping_modes": [
+      "SHM680031",
+      "SHM608055",
+      "SHM676014"
+    ],
+    "rating": 1.3,
+    "status": "Suspended",
+    "created_date": "2024-11-14T10:29:08",
+    "last_updated": "2024-12-03T08:28:33"
+  },
+  {
+    "partner_id": "dd1b4db2-4ffc-435a-8a53-7be0b850346e",
+    "partner_code": "TP46421475",
+    "partner_name": "Waters-Rich",
+    "contact_person": "Kristin Singh",
+    "email": "fernandonavarro@example.net",
+    "phone": "7753891793",
+    "address": "6011 Corey Passage\nSouth Crystalview, DE 12570",
+    "gst_number": "GST6285635407",
+    "pan_number": "PAN4320638747",
+    "service_areas": [
+      "National",
+      "Regional",
+      "Local",
+      "International"
+    ],
+    "shipping_modes": [
+      "SHM610915",
+      "SHM841870",
+      "SHM746277",
+      "SHM348604"
+    ],
+    "rating": 1.7,
+    "status": "Active",
+    "created_date": "2024-02-27T21:37:52",
+    "last_updated": "2024-05-26T12:07:40"
+  },
+  {
+    "partner_id": "85ea62ce-b5ea-4fb6-803b-6a7c41bc0eb5",
+    "partner_code": "TP47946936",
+    "partner_name": "Greer Inc",
+    "contact_person": "Steve Smith",
+    "email": "elliottdaniel@example.org",
+    "phone": "(951)558-2923x9112",
+    "address": "PSC 8309, Box 2945\nAPO AA 73865",
+    "gst_number": "GST5474058676",
+    "pan_number": "PAN2676153486",
+    "service_areas": [
+      "National",
+      "Regional"
+    ],
+    "shipping_modes": [
+      "SHM394056"
+    ],
+    "rating": 3.9,
+    "status": "Suspended",
+    "created_date": "2024-05-10T13:06:43",
+    "last_updated": "2024-03-26T17:47:49"
+  },
+  {
+    "partner_id": "a4e5a608-e8e2-46c3-8a86-eee50b3afd2b",
+    "partner_code": "TP14571420",
+    "partner_name": "Vega-Mckay",
+    "contact_person": "Kent Williams",
+    "email": "allison68@example.com",
+    "phone": "001-644-353-4424x6430",
+    "address": "75368 Wolfe Fall\nEast Abigailport, WI 94478",
+    "gst_number": "GST736909029",
+    "pan_number": "PAN1116997106",
+    "service_areas": [
+      "Regional",
+      "Local"
+    ],
+    "shipping_modes": [
+      "SHM247054"
+    ],
+    "rating": 1.6,
+    "status": "Active",
+    "created_date": "2025-03-16T12:47:55",
+    "last_updated": "2024-04-07T01:08:27"
+  },
+  {
+    "partner_id": "2321d40c-3811-4e31-846d-82832f353dde",
+    "partner_code": "TP10445513",
+    "partner_name": "Carlson Inc",
+    "contact_person": "Christine Bishop",
+    "email": "pvaughan@example.net",
+    "phone": "001-458-404-1518x099",
+    "address": "526 Christopher Corners\nKimshire, CO 61919",
+    "gst_number": "GST6419247165",
+    "pan_number": "PAN6693984525",
+    "service_areas": [
+      "International",
+      "Local",
+      "National"
+    ],
+    "shipping_modes": [
+      "SHM858834",
+      "SHM626483"
+    ],
+    "rating": 1.5,
+    "status": "Suspended",
+    "created_date": "2023-09-07T17:13:16",
+    "last_updated": "2025-03-08T00:28:22"
+  },
+  {
+    "partner_id": "708f0016-2dcf-4f43-bbb0-78b6c3acc693",
+    "partner_code": "TP73760360",
+    "partner_name": "Carey and Sons",
+    "contact_person": "Larry Smith",
+    "email": "melissa94@example.com",
+    "phone": "001-518-898-5899",
+    "address": "011 Clayton Ferry\nSouth Kayla, MT 67954",
+    "gst_number": "GST331413823",
+    "pan_number": "PAN3758915468",
+    "service_areas": [
+      "Local"
+    ],
+    "shipping_modes": [
+      "SHM773291",
+      "SHM626030",
+      "SHM840121",
+      "SHM910594",
+      "SHM206830"
+    ],
+    "rating": 4.8,
+    "status": "Inactive",
+    "created_date": "2025-03-17T10:49:42",
+    "last_updated": "2024-12-23T07:16:30"
+  },
+  {
+    "partner_id": "dfdc8196-96d3-4769-b557-3d0c179ab69a",
+    "partner_code": "TP28571619",
+    "partner_name": "Castro, Ross and White",
+    "contact_person": "Sarah Quinn",
+    "email": "benjaminoliver@example.net",
+    "phone": "741.734.4755x7750",
+    "address": "USNS Solomon\nFPO AA 48360",
+    "gst_number": "GST4477329777",
+    "pan_number": "PAN8691131402",
+    "service_areas": [
+      "Local",
+      "National",
+      "Regional"
+    ],
+    "shipping_modes": [
+      "SHM995887",
+      "SHM659859",
+      "SHM864817",
+      "SHM195577",
+      "SHM501260"
+    ],
+    "rating": 4.2,
+    "status": "Inactive",
+    "created_date": "2023-03-31T16:28:03",
+    "last_updated": "2024-09-26T23:48:23"
+  },
+  {
+    "partner_id": "f6b34cbe-e648-4cde-88c3-c6b6956f17be",
+    "partner_code": "TP77239170",
+    "partner_name": "Jones, Cardenas and Houston",
+    "contact_person": "Tyler Perry",
+    "email": "johnnolan@example.net",
+    "phone": "+1-574-622-6420x8497",
+    "address": "567 Tyler Hills Suite 621\nDawnport, NV 44399",
+    "gst_number": "GST6628214114",
+    "pan_number": "PAN7425514973",
+    "service_areas": [
+      "Regional",
+      "Local",
+      "International",
+      "National"
+    ],
+    "shipping_modes": [
+      "SHM843792",
+      "SHM73499",
+      "SHM333291"
+    ],
+    "rating": 1.2,
+    "status": "Suspended",
+    "created_date": "2023-09-15T13:11:44",
+    "last_updated": "2024-12-31T14:35:07"
+  },
+  {
+    "partner_id": "79bedd4d-f1c8-489b-9be0-a3406c09d5d4",
+    "partner_code": "TP31482356",
+    "partner_name": "Bradford, Mcdonald and Williams",
+    "contact_person": "Yolanda Nichols",
+    "email": "holly85@example.net",
+    "phone": "(829)859-4565x749",
+    "address": "72685 Smith Station Suite 579\nMartinmouth, KS 42494",
+    "gst_number": "GST6479372825",
+    "pan_number": "PAN14467188",
+    "service_areas": [
+      "International",
+      "National",
+      "Local"
+    ],
+    "shipping_modes": [
+      "SHM247756",
+      "SHM927674",
+      "SHM236094",
+      "SHM868258"
+    ],
+    "rating": 1.3,
+    "status": "Suspended",
+    "created_date": "2024-01-09T09:47:54",
+    "last_updated": "2024-08-19T18:39:49"
+  },
+  {
+    "partner_id": "fb54538f-cc14-4bd1-a801-196d0c8f1557",
+    "partner_code": "TP24559505",
+    "partner_name": "Owens, Roman and Drake",
+    "contact_person": "Andrea Hill",
+    "email": "natalie84@example.org",
+    "phone": "562-403-4593x26799",
+    "address": "9655 Tonya Lane Suite 310\nEspinozaside, NM 93079",
+    "gst_number": "GST9108230241",
+    "pan_number": "PAN2624154531",
+    "service_areas": [
+      "Local",
+      "Regional",
+      "National"
+    ],
+    "shipping_modes": [
+      "SHM25380",
+      "SHM698885",
+      "SHM383222"
+    ],
+    "rating": 4.1,
+    "status": "Active",
+    "created_date": "2025-01-18T13:35:17",
+    "last_updated": "2024-12-01T05:28:24"
+  },
+  {
+    "partner_id": "20e4574e-e419-4463-8ac7-366f97383406",
+    "partner_code": "TP64798972",
+    "partner_name": "Garcia, Irwin and Hoffman",
+    "contact_person": "Bradley Lee",
+    "email": "terri71@example.net",
+    "phone": "001-759-814-2419x385",
+    "address": "0376 Martinez Curve\nMeyerchester, NH 75834",
+    "gst_number": "GST3780547437",
+    "pan_number": "PAN6216344355",
+    "service_areas": [
+      "Local",
+      "International",
+      "National"
+    ],
+    "shipping_modes": [
+      "SHM521572",
+      "SHM737864",
+      "SHM585794",
+      "SHM371562",
+      "SHM229789"
+    ],
+    "rating": 2.1,
+    "status": "Inactive",
+    "created_date": "2024-05-21T02:29:21",
+    "last_updated": "2024-10-01T22:18:00"
+  },
+  {
+    "partner_id": "968baadd-4755-448f-83ca-c478cd58c9d9",
+    "partner_code": "TP59925848",
+    "partner_name": "Mckinney Group",
+    "contact_person": "Jason Armstrong",
+    "email": "gsanchez@example.com",
+    "phone": "6716089270",
+    "address": "2865 Joseph Freeway Suite 628\nLeeville, FM 52284",
+    "gst_number": "GST9723915370",
+    "pan_number": "PAN2276025351",
+    "service_areas": [
+      "National",
+      "Regional"
+    ],
+    "shipping_modes": [
+      "SHM826232",
+      "SHM100054",
+      "SHM19563"
+    ],
+    "rating": 3.3,
+    "status": "Suspended",
+    "created_date": "2024-08-22T10:23:27",
+    "last_updated": "2024-06-25T20:05:04"
+  },
+  {
+    "partner_id": "d6b01221-d795-4959-9153-52d3ae38da36",
+    "partner_code": "TP23969346",
+    "partner_name": "Weeks-Davis",
+    "contact_person": "Kristy Lewis",
+    "email": "mary99@example.org",
+    "phone": "+1-780-735-7360x1849",
+    "address": "8653 Medina Common Suite 728\nJohnsonville, MT 13632",
+    "gst_number": "GST772201385",
+    "pan_number": "PAN2598353781",
+    "service_areas": [
+      "National"
+    ],
+    "shipping_modes": [
+      "SHM331363",
+      "SHM529240",
+      "SHM507179",
+      "SHM176764"
+    ],
+    "rating": 2.4,
+    "status": "Inactive",
+    "created_date": "2023-11-03T17:39:27",
+    "last_updated": "2024-10-17T05:04:37"
+  },
+  {
+    "partner_id": "2e57713c-4f0e-44ab-bbf9-3ce6f4df582a",
+    "partner_code": "TP41840323",
+    "partner_name": "Wong PLC",
+    "contact_person": "Patricia Rodriguez",
+    "email": "jenniferyoung@example.com",
+    "phone": "(621)937-9602x541",
+    "address": "19024 Kathryn Grove Suite 794\nWhitehaven, AZ 68489",
+    "gst_number": "GST427868071",
+    "pan_number": "PAN1235408157",
+    "service_areas": [
+      "Regional",
+      "Local"
+    ],
+    "shipping_modes": [
+      "SHM712346",
+      "SHM204659",
+      "SHM466448"
+    ],
+    "rating": 4.5,
+    "status": "Suspended",
+    "created_date": "2024-05-07T14:51:45",
+    "last_updated": "2024-04-06T09:33:49"
+  },
+  {
+    "partner_id": "2e523a67-8011-4a8a-8103-65d89e884085",
+    "partner_code": "TP67980655",
+    "partner_name": "Hill PLC",
+    "contact_person": "Amanda Gonzalez",
+    "email": "whitechelsea@example.com",
+    "phone": "(410)475-2281x768",
+    "address": "7551 Smith Fort\nAllenbury, WA 35206",
+    "gst_number": "GST6051732174",
+    "pan_number": "PAN5712778549",
+    "service_areas": [
+      "Local",
+      "National",
+      "International",
+      "Regional"
+    ],
+    "shipping_modes": [
+      "SHM87505",
+      "SHM332833",
+      "SHM428461",
+      "SHM953022",
+      "SHM887932"
+    ],
+    "rating": 4.2,
+    "status": "Suspended",
+    "created_date": "2024-11-19T14:04:06",
+    "last_updated": "2024-04-09T21:06:00"
+  },
+  {
+    "partner_id": "a7615bf1-49c3-4728-a710-1c8f715fa6dc",
+    "partner_code": "TP83783346",
+    "partner_name": "Lara Inc",
+    "contact_person": "Daniel Johnson",
+    "email": "jessica99@example.org",
+    "phone": "001-924-255-3175",
+    "address": "847 Patricia Center Suite 263\nRomanview, KY 40043",
+    "gst_number": "GST2964950906",
+    "pan_number": "PAN7940537852",
+    "service_areas": [
+      "National",
+      "International",
+      "Local",
+      "Regional"
+    ],
+    "shipping_modes": [
+      "SHM410263",
+      "SHM734219",
+      "SHM939904"
+    ],
+    "rating": 4.1,
+    "status": "Active",
+    "created_date": "2025-01-29T11:52:12",
+    "last_updated": "2024-12-09T19:18:23"
+  },
+  {
+    "partner_id": "c8347c60-a8f3-4a16-bef9-9ddbbbfce577",
+    "partner_code": "TP52656060",
+    "partner_name": "Butler-Johnson",
+    "contact_person": "Anthony Fitzgerald",
+    "email": "wendybaker@example.com",
+    "phone": "(598)255-8890",
+    "address": "49335 Rachel Road Apt. 185\nBryantborough, PA 97336",
+    "gst_number": "GST5574085955",
+    "pan_number": "PAN4310345137",
+    "service_areas": [
+      "Regional",
+      "Local",
+      "National"
+    ],
+    "shipping_modes": [
+      "SHM714616",
+      "SHM708737",
+      "SHM805606",
+      "SHM235306"
+    ],
+    "rating": 1.8,
+    "status": "Inactive",
+    "created_date": "2024-09-17T20:49:51",
+    "last_updated": "2024-06-26T10:37:36"
+  },
+  {
+    "partner_id": "a96f6bfe-8cf6-40d4-bc31-7f48af66967d",
+    "partner_code": "TP65250749",
+    "partner_name": "Castillo, Hughes and Cruz",
+    "contact_person": "Diana Pena",
+    "email": "kjordan@example.org",
+    "phone": "989.680.4904x492",
+    "address": "Unit 6730 Box 7431\nDPO AP 33563",
+    "gst_number": "GST6253171570",
+    "pan_number": "PAN2745304921",
+    "service_areas": [
+      "Local",
+      "International",
+      "National"
+    ],
+    "shipping_modes": [
+      "SHM624100",
+      "SHM588030"
+    ],
+    "rating": 3.7,
+    "status": "Active",
+    "created_date": "2025-01-11T15:14:18",
+    "last_updated": "2024-10-17T08:12:49"
+  },
+  {
+    "partner_id": "b62185a1-b94f-4a4e-95ad-45a0edbcc1b1",
+    "partner_code": "TP34385451",
+    "partner_name": "King, Daniels and Chang",
+    "contact_person": "Robert Jones",
+    "email": "jonesdouglas@example.org",
+    "phone": "+1-971-376-7108x89365",
+    "address": "26543 Margaret Estate Suite 419\nWest Anthony, MD 89960",
+    "gst_number": "GST9649665661",
+    "pan_number": "PAN5790197088",
+    "service_areas": [
+      "International",
+      "Local",
+      "National"
+    ],
+    "shipping_modes": [
+      "SHM24679",
+      "SHM945368",
+      "SHM31262"
+    ],
+    "rating": 1.3,
+    "status": "Active",
+    "created_date": "2023-10-06T11:45:52",
+    "last_updated": "2025-02-05T23:23:07"
+  },
+  {
+    "partner_id": "7d6947bf-49c6-4552-bdec-2bc76d5e0f6b",
+    "partner_code": "TP79566929",
+    "partner_name": "Duffy-King",
+    "contact_person": "Cole Middleton",
+    "email": "crawfordpatrick@example.com",
+    "phone": "633.708.7043",
+    "address": "934 Thomas Prairie\nPort Leslie, VA 93119",
+    "gst_number": "GST6087818071",
+    "pan_number": "PAN697859832",
+    "service_areas": [
+      "International",
+      "Regional",
+      "National",
+      "Local"
+    ],
+    "shipping_modes": [
+      "SHM737074",
+      "SHM434993",
+      "SHM470549"
+    ],
+    "rating": 4.4,
+    "status": "Inactive",
+    "created_date": "2023-05-01T09:01:06",
+    "last_updated": "2025-02-15T05:47:37"
+  },
+  {
+    "partner_id": "2e4a4d01-751b-40fe-a73c-5d6ee365aec5",
+    "partner_code": "TP6880014",
+    "partner_name": "Alexander-Walker",
+    "contact_person": "Michael Lane",
+    "email": "mmurray@example.com",
+    "phone": "001-360-494-4673x51002",
+    "address": "2021 Owens Spurs\nAmandaborough, WI 42818",
+    "gst_number": "GST3209088816",
+    "pan_number": "PAN311634612",
+    "service_areas": [
+      "Local",
+      "National",
+      "Regional",
+      "International"
+    ],
+    "shipping_modes": [
+      "SHM353223",
+      "SHM778883"
+    ],
+    "rating": 1.1,
+    "status": "Inactive",
+    "created_date": "2024-07-11T15:48:38",
+    "last_updated": "2024-05-14T11:50:07"
+  },
+  {
+    "partner_id": "7cf1f640-191e-484d-bbfb-74bae452cc79",
+    "partner_code": "TP96932966",
+    "partner_name": "Graham, Holloway and Montgomery",
+    "contact_person": "Joseph Burns",
+    "email": "gyates@example.com",
+    "phone": "972-614-0912x77165",
+    "address": "798 Carolyn Meadow\nScottview, WI 98786",
+    "gst_number": "GST7709326241",
+    "pan_number": "PAN8702475553",
+    "service_areas": [
+      "Local",
+      "National"
+    ],
+    "shipping_modes": [
+      "SHM810344",
+      "SHM445957"
+    ],
+    "rating": 1.6,
+    "status": "Inactive",
+    "created_date": "2024-12-07T22:12:50",
+    "last_updated": "2024-06-01T10:37:23"
+  },
+  {
+    "partner_id": "66e1fb31-b73c-40f3-bf2f-1cd623f12029",
+    "partner_code": "TP94023325",
+    "partner_name": "George, Haas and Miller",
+    "contact_person": "Janet Mckinney",
+    "email": "andrea56@example.org",
+    "phone": "741-344-6949x44096",
+    "address": "38550 Peter Street Apt. 050\nParkermouth, MO 67171",
+    "gst_number": "GST5343720419",
+    "pan_number": "PAN6781064430",
+    "service_areas": [
+      "International",
+      "Regional",
+      "Local",
+      "National"
+    ],
+    "shipping_modes": [
+      "SHM686803",
+      "SHM127833",
+      "SHM57011",
+      "SHM884261"
+    ],
+    "rating": 4.8,
+    "status": "Suspended",
+    "created_date": "2024-01-11T11:28:35",
+    "last_updated": "2024-11-04T19:46:49"
+  },
+  {
+    "partner_id": "97e28324-9dc9-41a1-b506-5fbd765b75f7",
+    "partner_code": "TP73458936",
+    "partner_name": "Hubbard, Rodriguez and Martin",
+    "contact_person": "Nicholas Meyers",
+    "email": "rachelmorales@example.com",
+    "phone": "(373)726-4529",
+    "address": "19300 Micheal Mall\nNew Edward, WI 24832",
+    "gst_number": "GST7725699157",
+    "pan_number": "PAN7108930581",
+    "service_areas": [
+      "National"
+    ],
+    "shipping_modes": [
+      "SHM553074",
+      "SHM633786",
+      "SHM453260",
+      "SHM937155"
+    ],
+    "rating": 2.4,
+    "status": "Inactive",
+    "created_date": "2024-11-15T19:16:13",
+    "last_updated": "2024-06-12T01:52:10"
+  },
+  {
+    "partner_id": "60dc6a79-cb2c-4170-81b0-30a1cf3c6206",
+    "partner_code": "TP45435452",
+    "partner_name": "Adkins and Sons",
+    "contact_person": "Randy Horton DDS",
+    "email": "david40@example.org",
+    "phone": "+1-906-734-1077x660",
+    "address": "155 Hamilton Mill\nLawsontown, HI 58867",
+    "gst_number": "GST429951531",
+    "pan_number": "PAN7719885665",
+    "service_areas": [
+      "Local",
+      "National",
+      "Regional",
+      "International"
+    ],
+    "shipping_modes": [
+      "SHM223329",
+      "SHM403576",
+      "SHM355790"
+    ],
+    "rating": 2.3,
+    "status": "Suspended",
+    "created_date": "2024-04-23T14:45:31",
+    "last_updated": "2024-08-12T19:30:24"
+  },
+  {
+    "partner_id": "4c3aaa7c-43ad-4f79-8395-b10a75c9bfc2",
+    "partner_code": "TP60242986",
+    "partner_name": "Butler Inc",
+    "contact_person": "Kevin Chase",
+    "email": "michelle76@example.com",
+    "phone": "(228)574-1482x892",
+    "address": "17941 Petersen Spurs Suite 832\nNorth Candaceville, IN 36588",
+    "gst_number": "GST4568772011",
+    "pan_number": "PAN7138591201",
+    "service_areas": [
+      "International",
+      "Local",
+      "National",
+      "Regional"
+    ],
+    "shipping_modes": [
+      "SHM822250"
+    ],
+    "rating": 2.8,
+    "status": "Inactive",
+    "created_date": "2023-06-07T10:41:27",
+    "last_updated": "2024-12-20T16:35:50"
+  },
+  {
+    "partner_id": "38440670-0aa9-4c22-8e3e-150ec2ce2e06",
+    "partner_code": "TP54576173",
+    "partner_name": "Wagner-Davila",
+    "contact_person": "Michelle Lowery",
+    "email": "sylvialopez@example.com",
+    "phone": "742.242.8357",
+    "address": "454 Riddle Stream\nNew Michael, WI 24360",
+    "gst_number": "GST4748189232",
+    "pan_number": "PAN1208435308",
+    "service_areas": [
+      "International",
+      "Local",
+      "Regional"
+    ],
+    "shipping_modes": [
+      "SHM158738",
+      "SHM669112",
+      "SHM491924",
+      "SHM692656"
+    ],
+    "rating": 4.5,
+    "status": "Suspended",
+    "created_date": "2024-08-31T05:02:59",
+    "last_updated": "2024-09-04T06:35:41"
+  },
+  {
+    "partner_id": "0f77a8cd-280b-48dc-bcad-f026c779e56b",
+    "partner_code": "TP8887769",
+    "partner_name": "Massey Ltd",
+    "contact_person": "Christina Flores",
+    "email": "alexiswalters@example.com",
+    "phone": "(430)563-8767x9383",
+    "address": "3942 Victoria Village\nWest Jessicaborough, VT 52219",
+    "gst_number": "GST7165293414",
+    "pan_number": "PAN4887846592",
+    "service_areas": [
+      "Local",
+      "National"
+    ],
+    "shipping_modes": [
+      "SHM549480",
+      "SHM805714",
+      "SHM882990",
+      "SHM737738"
+    ],
+    "rating": 1.1,
+    "status": "Inactive",
+    "created_date": "2023-08-19T23:14:20",
+    "last_updated": "2024-04-29T23:10:56"
+  },
+  {
+    "partner_id": "bfbef08b-af29-4860-9fc4-470930c5cac0",
+    "partner_code": "TP42881997",
+    "partner_name": "Miles-Stuart",
+    "contact_person": "Laura Powell",
+    "email": "rachel96@example.net",
+    "phone": "001-674-268-4640x04790",
+    "address": "2877 Amanda Manors Suite 739\nKathryntown, AK 20138",
+    "gst_number": "GST7873394135",
+    "pan_number": "PAN8241760419",
+    "service_areas": [
+      "Regional",
+      "International",
+      "Local",
+      "National"
+    ],
+    "shipping_modes": [
+      "SHM693333"
+    ],
+    "rating": 3.3,
+    "status": "Active",
+    "created_date": "2024-12-02T12:15:59",
+    "last_updated": "2025-01-06T06:11:51"
+  },
+  {
+    "partner_id": "56fd4105-ed9c-4acd-817e-4adc8a682da0",
+    "partner_code": "TP27254998",
+    "partner_name": "Murillo-Sullivan",
+    "contact_person": "Gregory May",
+    "email": "ithomas@example.net",
+    "phone": "(379)459-8994",
+    "address": "7184 Carrie Trace Apt. 161\nDavidfort, NC 71447",
+    "gst_number": "GST359915964",
+    "pan_number": "PAN9991736730",
+    "service_areas": [
+      "National",
+      "Regional"
+    ],
+    "shipping_modes": [
+      "SHM632067",
+      "SHM136307"
+    ],
+    "rating": 2.1,
+    "status": "Suspended",
+    "created_date": "2024-02-11T12:21:48",
+    "last_updated": "2024-12-04T19:38:54"
+  },
+  {
+    "partner_id": "2dfb0c42-260d-4d7e-b026-d43cfd4d8ee0",
+    "partner_code": "TP27827817",
+    "partner_name": "Day, Johnson and Walker",
+    "contact_person": "Diana Williams",
+    "email": "jdillon@example.com",
+    "phone": "548-592-5690",
+    "address": "5003 Watkins Landing Apt. 214\nOchoahaven, NH 39268",
+    "gst_number": "GST4851174823",
+    "pan_number": "PAN6014643258",
+    "service_areas": [
+      "International",
+      "Local",
+      "Regional",
+      "National"
+    ],
+    "shipping_modes": [
+      "SHM404158",
+      "SHM708191",
+      "SHM260592"
+    ],
+    "rating": 1.7,
+    "status": "Inactive",
+    "created_date": "2024-05-12T19:28:09",
+    "last_updated": "2025-02-22T22:14:27"
+  },
+  {
+    "partner_id": "fb954d8f-a747-4cc6-b565-639720e69b95",
+    "partner_code": "TP15796005",
+    "partner_name": "James PLC",
+    "contact_person": "Robert Hernandez",
+    "email": "tamara27@example.com",
+    "phone": "472.697.3071x86458",
+    "address": "92463 Anderson Locks\nCrosbystad, CA 31516",
+    "gst_number": "GST6090234064",
+    "pan_number": "PAN1988539436",
+    "service_areas": [
+      "International",
+      "Local",
+      "Regional"
+    ],
+    "shipping_modes": [
+      "SHM75974"
+    ],
+    "rating": 3.4,
+    "status": "Suspended",
+    "created_date": "2023-06-09T23:43:33",
+    "last_updated": "2025-01-28T14:47:56"
+  },
+  {
+    "partner_id": "bbe19bf5-fc8c-4316-afd3-cdf5ea0ec9d9",
+    "partner_code": "TP5735356",
+    "partner_name": "Spencer Inc",
+    "contact_person": "Cassandra Miller",
+    "email": "zacharybrown@example.com",
+    "phone": "501-599-7619",
+    "address": "717 Watson Light Apt. 958\nWellston, MH 70111",
+    "gst_number": "GST4481110140",
+    "pan_number": "PAN3368756278",
+    "service_areas": [
+      "National",
+      "International",
+      "Local",
+      "Regional"
+    ],
+    "shipping_modes": [
+      "SHM967128"
+    ],
+    "rating": 1.1,
+    "status": "Suspended",
+    "created_date": "2024-08-05T08:05:33",
+    "last_updated": "2024-11-12T07:57:37"
+  },
+  {
+    "partner_id": "acd60c49-98d9-48eb-b087-4327d4b07a13",
+    "partner_code": "TP58682170",
+    "partner_name": "Gordon Ltd",
+    "contact_person": "Kristen Mercer",
+    "email": "johnsonkeith@example.org",
+    "phone": "536.490.0346",
+    "address": "422 Rogers Island Suite 300\nSouth Rachelchester, TN 36715",
+    "gst_number": "GST9419934687",
+    "pan_number": "PAN4732352622",
+    "service_areas": [
+      "Regional",
+      "National",
+      "Local"
+    ],
+    "shipping_modes": [
+      "SHM590397",
+      "SHM388303"
+    ],
+    "rating": 2.9,
+    "status": "Inactive",
+    "created_date": "2023-04-25T00:30:28",
+    "last_updated": "2025-02-23T13:16:21"
+  },
+  {
+    "partner_id": "500832a8-22ec-4dc8-be52-9d961847f51b",
+    "partner_code": "TP97551830",
+    "partner_name": "Gonzalez and Sons",
+    "contact_person": "Clayton Chan",
+    "email": "xlyons@example.net",
+    "phone": "9897742404",
+    "address": "503 Hernandez River\nTammyfort, NJ 51483",
+    "gst_number": "GST1451335934",
+    "pan_number": "PAN9955477775",
+    "service_areas": [
+      "Regional",
+      "National",
+      "International"
+    ],
+    "shipping_modes": [
+      "SHM347933"
+    ],
+    "rating": 2.6,
+    "status": "Inactive",
+    "created_date": "2025-01-27T03:56:06",
+    "last_updated": "2024-05-25T05:52:03"
+  },
+  {
+    "partner_id": "a9fd1889-6696-418b-8afb-f4d79491eaff",
+    "partner_code": "TP76637100",
+    "partner_name": "Keith, Adams and Robinson",
+    "contact_person": "Brandon Boyd",
+    "email": "dwest@example.com",
+    "phone": "+1-531-866-7269x43650",
+    "address": "94987 Lisa Trail Suite 752\nNew Karenside, MN 63585",
+    "gst_number": "GST6462776196",
+    "pan_number": "PAN6741774533",
+    "service_areas": [
+      "International",
+      "National",
+      "Regional",
+      "Local"
+    ],
+    "shipping_modes": [
+      "SHM429222",
+      "SHM347322"
+    ],
+    "rating": 2.4,
+    "status": "Inactive",
+    "created_date": "2023-07-26T15:59:10",
+    "last_updated": "2024-08-17T16:38:01"
+  },
+  {
+    "partner_id": "b950f5b9-4df8-4874-8652-674c4a3540bb",
+    "partner_code": "TP63423967",
+    "partner_name": "Christensen, Savage and Solis",
+    "contact_person": "Austin Diaz",
+    "email": "marylane@example.org",
+    "phone": "001-391-526-7282x48469",
+    "address": "03127 Lloyd Club\nLake Noah, FM 37190",
+    "gst_number": "GST1400647990",
+    "pan_number": "PAN4897192774",
+    "service_areas": [
+      "International"
+    ],
+    "shipping_modes": [
+      "SHM368343",
+      "SHM543874"
+    ],
+    "rating": 3.9,
+    "status": "Suspended",
+    "created_date": "2023-04-08T09:43:20",
+    "last_updated": "2024-07-13T03:39:19"
+  },
+  {
+    "partner_id": "ff0bd9de-5a48-46f1-9f21-eff8320f28cb",
+    "partner_code": "TP96945382",
+    "partner_name": "Barnett-Smith",
+    "contact_person": "Kayla Hansen",
+    "email": "hmathews@example.org",
+    "phone": "+1-216-272-6497x334",
+    "address": "46756 Megan Walks Apt. 110\nNorth William, GA 59062",
+    "gst_number": "GST2580172611",
+    "pan_number": "PAN2699433898",
+    "service_areas": [
+      "International",
+      "Local",
+      "National"
+    ],
+    "shipping_modes": [
+      "SHM688621",
+      "SHM454071"
+    ],
+    "rating": 3.7,
+    "status": "Suspended",
+    "created_date": "2023-11-07T02:39:53",
+    "last_updated": "2024-09-19T17:37:53"
+  },
+  {
+    "partner_id": "62af03fa-3c4c-40f1-b76a-52a6df908ed7",
+    "partner_code": "TP88837353",
+    "partner_name": "Arnold PLC",
+    "contact_person": "Laura Martin",
+    "email": "fkennedy@example.net",
+    "phone": "(423)275-1858",
+    "address": "56778 Williams Garden Apt. 711\nStevenfort, MA 72519",
+    "gst_number": "GST8350768562",
+    "pan_number": "PAN2031771210",
+    "service_areas": [
+      "Local",
+      "International",
+      "Regional"
+    ],
+    "shipping_modes": [
+      "SHM861294",
+      "SHM364174"
+    ],
+    "rating": 1.6,
+    "status": "Inactive",
+    "created_date": "2023-04-17T04:13:53",
+    "last_updated": "2024-10-03T11:59:01"
+  },
+  {
+    "partner_id": "5fa48d78-5fcd-482e-a62a-83ac013c23a5",
+    "partner_code": "TP33316913",
+    "partner_name": "Brooks, Flynn and Wright",
+    "contact_person": "Kristina Cooper",
+    "email": "mlynch@example.com",
+    "phone": "+1-773-796-6632x368",
+    "address": "807 Dean Isle Apt. 316\nWest Amy, KY 80172",
+    "gst_number": "GST9833379347",
+    "pan_number": "PAN9688637935",
+    "service_areas": [
+      "Regional",
+      "International"
+    ],
+    "shipping_modes": [
+      "SHM973599",
+      "SHM261181",
+      "SHM650889"
+    ],
+    "rating": 4.2,
+    "status": "Active",
+    "created_date": "2023-08-21T00:46:06",
+    "last_updated": "2024-10-17T12:31:10"
+  },
+  {
+    "partner_id": "73185b63-4625-4903-94b1-265a03a27505",
+    "partner_code": "TP6491733",
+    "partner_name": "Phillips-Rodriguez",
+    "contact_person": "Erica Williams",
+    "email": "ynelson@example.net",
+    "phone": "473.787.5062",
+    "address": "453 David Cove\nNew Donald, CA 76038",
+    "gst_number": "GST628418481",
+    "pan_number": "PAN5301461358",
+    "service_areas": [
+      "International",
+      "National",
+      "Regional"
+    ],
+    "shipping_modes": [
+      "SHM416034",
+      "SHM917678"
+    ],
+    "rating": 1.1,
+    "status": "Inactive",
+    "created_date": "2024-11-29T00:33:55",
+    "last_updated": "2024-11-19T16:50:54"
+  },
+  {
+    "partner_id": "c7bf24cc-8281-4d57-92ca-223fa29133a7",
+    "partner_code": "TP64659645",
+    "partner_name": "Jackson-Rose",
+    "contact_person": "Jason Sandoval",
+    "email": "aaronrosario@example.net",
+    "phone": "300-893-3098x9631",
+    "address": "637 Brian Springs\nNew Sergioshire, PR 87775",
+    "gst_number": "GST1460746320",
+    "pan_number": "PAN390189249",
+    "service_areas": [
+      "National",
+      "Local",
+      "Regional",
+      "International"
+    ],
+    "shipping_modes": [
+      "SHM801737"
+    ],
+    "rating": 1.5,
+    "status": "Suspended",
+    "created_date": "2024-12-20T16:03:07",
+    "last_updated": "2025-03-14T19:10:38"
+  },
+  {
+    "partner_id": "5bb9e3ce-ce93-4d64-b3e9-2d487f1be786",
+    "partner_code": "TP55104219",
+    "partner_name": "Lewis Ltd",
+    "contact_person": "Derek Howard MD",
+    "email": "lisa77@example.com",
+    "phone": "(993)380-2443",
+    "address": "Unit 4447 Box 1054\nDPO AA 86196",
+    "gst_number": "GST6804678891",
+    "pan_number": "PAN967597037",
+    "service_areas": [
+      "National",
+      "Local",
+      "International"
+    ],
+    "shipping_modes": [
+      "SHM236229",
+      "SHM733556",
+      "SHM123932"
+    ],
+    "rating": 4.3,
+    "status": "Active",
+    "created_date": "2023-04-11T03:26:29",
+    "last_updated": "2024-12-23T03:52:46"
+  },
+  {
+    "partner_id": "82917933-9ae3-4faa-ac34-6ec6b367b74b",
+    "partner_code": "TP78968225",
+    "partner_name": "Sherman Group",
+    "contact_person": "Lauren Robinson",
+    "email": "pcline@example.net",
+    "phone": "608-526-2138x8474",
+    "address": "84385 Burns Flats\nWhitneyhaven, TX 86103",
+    "gst_number": "GST7086431575",
+    "pan_number": "PAN5751441055",
+    "service_areas": [
+      "National",
+      "Local",
+      "International",
+      "Regional"
+    ],
+    "shipping_modes": [
+      "SHM410452",
+      "SHM254989"
+    ],
+    "rating": 1.0,
+    "status": "Inactive",
+    "created_date": "2024-05-25T11:10:17",
+    "last_updated": "2024-04-03T03:22:24"
+  },
+  {
+    "partner_id": "d64751a5-01d2-4189-a0e5-4384531f385b",
+    "partner_code": "TP46741506",
+    "partner_name": "Love, Smith and Phillips",
+    "contact_person": "Pamela Ortiz",
+    "email": "pfernandez@example.net",
+    "phone": "413-842-6053",
+    "address": "96571 Claudia Ridges Suite 845\nSchultzshire, NY 23909",
+    "gst_number": "GST5514044136",
+    "pan_number": "PAN2303775657",
+    "service_areas": [
+      "Regional",
+      "National",
+      "International"
+    ],
+    "shipping_modes": [
+      "SHM720588",
+      "SHM406862"
+    ],
+    "rating": 1.7,
+    "status": "Suspended",
+    "created_date": "2024-05-08T12:39:04",
+    "last_updated": "2024-11-26T09:48:58"
+  },
+  {
+    "partner_id": "d59f1f4c-8829-4a2f-9194-43fb55029871",
+    "partner_code": "TP25210271",
+    "partner_name": "Ramsey, Anderson and Garcia",
+    "contact_person": "Jonathan Dalton",
+    "email": "erinbarrett@example.net",
+    "phone": "2108793031",
+    "address": "85924 Robertson Unions\nPort Patrickbury, NH 96005",
+    "gst_number": "GST598546683",
+    "pan_number": "PAN1918550178",
+    "service_areas": [
+      "International"
+    ],
+    "shipping_modes": [
+      "SHM444888",
+      "SHM232315",
+      "SHM61017",
+      "SHM993678"
+    ],
+    "rating": 1.2,
+    "status": "Inactive",
+    "created_date": "2023-12-30T00:55:30",
+    "last_updated": "2024-07-24T13:57:21"
+  },
+  {
+    "partner_id": "9cd741e6-e143-409d-b38f-77eac190fb1b",
+    "partner_code": "TP45993302",
+    "partner_name": "Franklin-Gomez",
+    "contact_person": "Carol Henry",
+    "email": "david75@example.net",
+    "phone": "326.417.2122x3492",
+    "address": "2759 Kenneth Circle\nHarperbury, CA 23664",
+    "gst_number": "GST8478748960",
+    "pan_number": "PAN9153523912",
+    "service_areas": [
+      "Local"
+    ],
+    "shipping_modes": [
+      "SHM818080",
+      "SHM146117",
+      "SHM575312"
+    ],
+    "rating": 4.3,
+    "status": "Inactive",
+    "created_date": "2023-09-17T10:50:38",
+    "last_updated": "2025-02-04T08:30:21"
+  },
+  {
+    "partner_id": "3f45569f-a2a1-4893-97c7-aaecd6267343",
+    "partner_code": "TP12755151",
+    "partner_name": "Brown PLC",
+    "contact_person": "Marie Vasquez",
+    "email": "williammiller@example.org",
+    "phone": "001-659-289-1466x953",
+    "address": "06548 Flores Lock\nEast Mindy, DC 72013",
+    "gst_number": "GST8493672070",
+    "pan_number": "PAN543020124",
+    "service_areas": [
+      "International",
+      "National",
+      "Regional"
+    ],
+    "shipping_modes": [
+      "SHM365964",
+      "SHM37315",
+      "SHM230864"
+    ],
+    "rating": 1.9,
+    "status": "Suspended",
+    "created_date": "2024-11-12T13:18:33",
+    "last_updated": "2024-10-06T06:04:55"
+  },
+  {
+    "partner_id": "7c33c5ea-708a-45e7-9ff5-5d5197b6fbf7",
+    "partner_code": "TP25480141",
+    "partner_name": "Thomas Ltd",
+    "contact_person": "Thomas Figueroa",
+    "email": "rbrown@example.net",
+    "phone": "001-758-786-7329x46438",
+    "address": "12626 Sanders Field\nNicoleburgh, MP 63557",
+    "gst_number": "GST4302253757",
+    "pan_number": "PAN5421822537",
+    "service_areas": [
+      "Local",
+      "Regional",
+      "International",
+      "National"
+    ],
+    "shipping_modes": [
+      "SHM257323",
+      "SHM458334",
+      "SHM236658",
+      "SHM129865",
+      "SHM432690"
+    ],
+    "rating": 3.8,
+    "status": "Suspended",
+    "created_date": "2023-09-18T10:30:58",
+    "last_updated": "2024-10-04T14:23:56"
+  },
+  {
+    "partner_id": "c5d59bd1-aadc-4f5c-8d92-2294800262bb",
+    "partner_code": "TP55611925",
+    "partner_name": "Fisher-Byrd",
+    "contact_person": "Rodney Chavez",
+    "email": "shawn83@example.org",
+    "phone": "(451)999-1527x04695",
+    "address": "5205 Weaver Villages\nWest Brandonstad, PW 80158",
+    "gst_number": "GST7311542976",
+    "pan_number": "PAN4854223864",
+    "service_areas": [
+      "Local",
+      "National",
+      "International"
+    ],
+    "shipping_modes": [
+      "SHM218980",
+      "SHM589492",
+      "SHM202336",
+      "SHM789337"
+    ],
+    "rating": 1.3,
+    "status": "Active",
+    "created_date": "2024-11-28T08:19:32",
+    "last_updated": "2024-04-23T22:44:44"
+  },
+  {
+    "partner_id": "02ddc65f-86b2-4aac-88cd-3a040d80408d",
+    "partner_code": "TP18357449",
+    "partner_name": "Lewis-Chavez",
+    "contact_person": "Jordan Walton",
+    "email": "kimwilson@example.com",
+    "phone": "+1-965-271-2391x60764",
+    "address": "833 Tiffany Common\nSouth Jasonshire, NM 98455",
+    "gst_number": "GST6154617774",
+    "pan_number": "PAN560930868",
+    "service_areas": [
+      "International",
+      "Regional",
+      "National"
+    ],
+    "shipping_modes": [
+      "SHM656621",
+      "SHM569058"
+    ],
+    "rating": 3.2,
+    "status": "Suspended",
+    "created_date": "2025-02-28T19:52:02",
+    "last_updated": "2024-07-15T01:03:30"
+  },
+  {
+    "partner_id": "dee31d67-f018-44fb-8d2d-2d9255e14f39",
+    "partner_code": "TP48318588",
+    "partner_name": "Russo-Hernandez",
+    "contact_person": "John Carpenter",
+    "email": "pflores@example.net",
+    "phone": "(584)411-1799x886",
+    "address": "837 Tina Tunnel Apt. 755\nLake Richard, MI 20053",
+    "gst_number": "GST512402363",
+    "pan_number": "PAN582470313",
+    "service_areas": [
+      "Regional",
+      "National",
+      "Local"
+    ],
+    "shipping_modes": [
+      "SHM901735",
+      "SHM107413",
+      "SHM719313",
+      "SHM495933"
+    ],
+    "rating": 1.7,
+    "status": "Suspended",
+    "created_date": "2024-12-27T02:29:05",
+    "last_updated": "2024-04-04T14:49:41"
+  },
+  {
+    "partner_id": "bbadfbf5-cbcb-4551-b10a-42967fa2b49f",
+    "partner_code": "TP4029379",
+    "partner_name": "Paul Inc",
+    "contact_person": "Shane Turner MD",
+    "email": "nunezmackenzie@example.org",
+    "phone": "001-345-241-9616x1562",
+    "address": "353 Williams Mountain Apt. 370\nAllenville, VA 80324",
+    "gst_number": "GST8557588408",
+    "pan_number": "PAN9158340327",
+    "service_areas": [
+      "National"
+    ],
+    "shipping_modes": [
+      "SHM873349",
+      "SHM16106"
+    ],
+    "rating": 3.6,
+    "status": "Active",
+    "created_date": "2023-09-29T19:19:47",
+    "last_updated": "2024-11-24T07:56:52"
+  },
+  {
+    "partner_id": "6cd90630-0fc2-4739-9094-c81fcf93a65f",
+    "partner_code": "TP35822864",
+    "partner_name": "Moran Inc",
+    "contact_person": "John Sawyer",
+    "email": "laurensherman@example.org",
+    "phone": "693-205-6237x117",
+    "address": "53690 Hayes Terrace Apt. 453\nNew Holly, WI 90120",
+    "gst_number": "GST8133858026",
+    "pan_number": "PAN3003379005",
+    "service_areas": [
+      "Local",
+      "Regional",
+      "National",
+      "International"
+    ],
+    "shipping_modes": [
+      "SHM139735"
+    ],
+    "rating": 1.7,
+    "status": "Suspended",
+    "created_date": "2025-02-02T15:07:42",
+    "last_updated": "2024-06-09T17:07:48"
+  },
+  {
+    "partner_id": "eafac895-3227-446a-9894-3ec728bd1fe5",
+    "partner_code": "TP26870708",
+    "partner_name": "Gonzalez Ltd",
+    "contact_person": "Ronald Bell",
+    "email": "michellemorgan@example.net",
+    "phone": "+1-480-671-8849x981",
+    "address": "USNS Lopez\nFPO AE 67378",
+    "gst_number": "GST343771376",
+    "pan_number": "PAN1968188584",
+    "service_areas": [
+      "Local",
+      "Regional"
+    ],
+    "shipping_modes": [
+      "SHM912965",
+      "SHM456167"
+    ],
+    "rating": 1.9,
+    "status": "Active",
+    "created_date": "2024-04-06T16:30:48",
+    "last_updated": "2025-01-22T16:45:44"
+  },
+  {
+    "partner_id": "5fc8da83-5edf-41cf-854e-2b7972003148",
+    "partner_code": "TP93609763",
+    "partner_name": "Johnson-House",
+    "contact_person": "Mrs. Amy Kerr DDS",
+    "email": "msavage@example.org",
+    "phone": "(699)983-8832x30289",
+    "address": "812 Christopher Square\nEast Melissa, ME 54741",
+    "gst_number": "GST2428599561",
+    "pan_number": "PAN4382267650",
+    "service_areas": [
+      "Regional",
+      "International",
+      "National",
+      "Local"
+    ],
+    "shipping_modes": [
+      "SHM696054",
+      "SHM447932",
+      "SHM84028",
+      "SHM842127"
+    ],
+    "rating": 3.8,
+    "status": "Suspended",
+    "created_date": "2024-10-22T12:01:21",
+    "last_updated": "2024-09-17T14:54:22"
+  },
+  {
+    "partner_id": "9be25197-5bb9-4b22-be48-8fa2bf15f8c8",
+    "partner_code": "TP85718319",
+    "partner_name": "Davis-Johnson",
+    "contact_person": "Jennifer Franco",
+    "email": "armstrongjudith@example.net",
+    "phone": "(391)916-0283",
+    "address": "92381 Barrett Square\nWest Johnathanland, AK 31739",
+    "gst_number": "GST3175805966",
+    "pan_number": "PAN6525286619",
+    "service_areas": [
+      "Local"
+    ],
+    "shipping_modes": [
+      "SHM851736",
+      "SHM733688",
+      "SHM114012",
+      "SHM259221",
+      "SHM772378"
+    ],
+    "rating": 5.0,
+    "status": "Active",
+    "created_date": "2023-07-04T08:41:00",
+    "last_updated": "2024-05-25T21:41:42"
+  },
+  {
+    "partner_id": "da84e102-cf29-4d0b-9388-5886a28e36f0",
+    "partner_code": "TP34050634",
+    "partner_name": "Gordon PLC",
+    "contact_person": "Michael Smith",
+    "email": "zjackson@example.net",
+    "phone": "(767)946-6476",
+    "address": "7336 Martinez Burgs Apt. 361\nChanbury, PA 42626",
+    "gst_number": "GST9315507300",
+    "pan_number": "PAN539726181",
+    "service_areas": [
+      "National"
+    ],
+    "shipping_modes": [
+      "SHM688720",
+      "SHM422878",
+      "SHM926713",
+      "SHM296970",
+      "SHM984933"
+    ],
+    "rating": 2.3,
+    "status": "Suspended",
+    "created_date": "2023-10-12T11:03:54",
+    "last_updated": "2024-05-29T08:40:36"
+  },
+  {
+    "partner_id": "84d94e0c-8c6d-4cb5-bfa4-86a75e41a050",
+    "partner_code": "TP71914035",
+    "partner_name": "Andrade Ltd",
+    "contact_person": "Veronica Kim",
+    "email": "acraig@example.com",
+    "phone": "(468)777-2074x92959",
+    "address": "Unit 4657 Box 5616\nDPO AA 38800",
+    "gst_number": "GST6587433286",
+    "pan_number": "PAN1395893462",
+    "service_areas": [
+      "International",
+      "Regional"
+    ],
+    "shipping_modes": [
+      "SHM971858"
+    ],
+    "rating": 3.1,
+    "status": "Suspended",
+    "created_date": "2023-05-19T03:16:58",
+    "last_updated": "2024-11-03T10:46:14"
+  },
+  {
+    "partner_id": "441fd9f9-5fc0-4c87-9118-56d3d7c545ff",
+    "partner_code": "TP64854798",
+    "partner_name": "Small-Roberts",
+    "contact_person": "Claudia Miller",
+    "email": "cooleysara@example.org",
+    "phone": "001-978-805-3408",
+    "address": "09850 Scott Square Suite 438\nSmithstad, WV 49841",
+    "gst_number": "GST817043733",
+    "pan_number": "PAN3693121319",
+    "service_areas": [
+      "Local",
+      "National",
+      "Regional",
+      "International"
+    ],
+    "shipping_modes": [
+      "SHM257644"
+    ],
+    "rating": 2.9,
+    "status": "Inactive",
+    "created_date": "2024-12-27T18:30:31",
+    "last_updated": "2024-04-20T18:22:06"
+  },
+  {
+    "partner_id": "040094ae-0fc2-4f4f-87c6-468220abe76b",
+    "partner_code": "TP69862997",
+    "partner_name": "Banks-Harris",
+    "contact_person": "Jerry Farley",
+    "email": "wangnathan@example.net",
+    "phone": "(507)225-4327",
+    "address": "496 Jeanne Plaza Apt. 083\nWest Angelastad, NH 66596",
+    "gst_number": "GST7169797391",
+    "pan_number": "PAN6509510916",
+    "service_areas": [
+      "Local",
+      "International",
+      "National",
+      "Regional"
+    ],
+    "shipping_modes": [
+      "SHM474046",
+      "SHM219518",
+      "SHM47246"
+    ],
+    "rating": 4.1,
+    "status": "Inactive",
+    "created_date": "2023-05-23T06:19:23",
+    "last_updated": "2024-11-18T00:52:10"
+  },
+  {
+    "partner_id": "18e8edb2-0e6e-4e23-9732-de7115fd52a4",
+    "partner_code": "TP95695623",
+    "partner_name": "Walker-Harmon",
+    "contact_person": "Brenda Hall",
+    "email": "gramirez@example.com",
+    "phone": "980-607-0217x518",
+    "address": "5876 Cameron Locks\nJonesborough, AZ 82834",
+    "gst_number": "GST8320652069",
+    "pan_number": "PAN8210915017",
+    "service_areas": [
+      "Local",
+      "Regional",
+      "International"
+    ],
+    "shipping_modes": [
+      "SHM957923",
+      "SHM827811",
+      "SHM379960",
+      "SHM729554",
+      "SHM305255"
+    ],
+    "rating": 3.0,
+    "status": "Inactive",
+    "created_date": "2023-06-11T04:43:17",
+    "last_updated": "2024-07-21T01:12:58"
+  },
+  {
+    "partner_id": "cb419a7b-4b8f-4ab3-a12b-1d06c096b806",
+    "partner_code": "TP38106110",
+    "partner_name": "Garcia-Ramos",
+    "contact_person": "Andrew Sellers",
+    "email": "mgreen@example.net",
+    "phone": "(722)332-5848",
+    "address": "3687 Jennifer Stream\nEast Christopherport, WI 27077",
+    "gst_number": "GST6329703065",
+    "pan_number": "PAN6565345446",
+    "service_areas": [
+      "Regional",
+      "International",
+      "Local"
+    ],
+    "shipping_modes": [
+      "SHM787428",
+      "SHM845645"
+    ],
+    "rating": 4.5,
+    "status": "Active",
+    "created_date": "2024-05-29T13:21:17",
+    "last_updated": "2025-02-14T04:39:18"
+  },
+  {
+    "partner_id": "e034ee01-f1b8-4f6d-b8d6-d10d94ef6fb4",
+    "partner_code": "TP46467393",
+    "partner_name": "Owens LLC",
+    "contact_person": "Jacob Lamb",
+    "email": "alicia93@example.com",
+    "phone": "001-687-650-7859x401",
+    "address": "22216 Dyer Vista\nCalvinview, TX 33337",
+    "gst_number": "GST2826468271",
+    "pan_number": "PAN8514318165",
+    "service_areas": [
+      "International",
+      "Regional",
+      "National",
+      "Local"
+    ],
+    "shipping_modes": [
+      "SHM98688"
+    ],
+    "rating": 2.8,
+    "status": "Inactive",
+    "created_date": "2023-10-24T19:52:28",
+    "last_updated": "2024-04-01T04:42:46"
+  },
+  {
+    "partner_id": "d8b4e8a2-6663-423d-b9bc-480d617a5be9",
+    "partner_code": "TP74294697",
+    "partner_name": "Wong, Newman and Hill",
+    "contact_person": "Christopher Baker",
+    "email": "shannonwilliamson@example.net",
+    "phone": "+1-455-256-5613x7653",
+    "address": "51517 Berry Lake\nTateside, AK 08197",
+    "gst_number": "GST9680419614",
+    "pan_number": "PAN6408996641",
+    "service_areas": [
+      "International",
+      "National"
+    ],
+    "shipping_modes": [
+      "SHM135099",
+      "SHM581362",
+      "SHM810914",
+      "SHM995672",
+      "SHM102660"
+    ],
+    "rating": 3.2,
+    "status": "Inactive",
+    "created_date": "2024-08-02T15:28:32",
+    "last_updated": "2024-05-08T20:48:08"
+  },
+  {
+    "partner_id": "436955a2-9653-41fe-a76f-b5dfc07d70a7",
+    "partner_code": "TP50826143",
+    "partner_name": "Miller, Knight and Ochoa",
+    "contact_person": "Patricia Brown",
+    "email": "anthony04@example.com",
+    "phone": "305.788.2720x956",
+    "address": "74364 Hays Flat\nEast Emilystad, MP 50942",
+    "gst_number": "GST6598290502",
+    "pan_number": "PAN4636492839",
+    "service_areas": [
+      "Local"
+    ],
+    "shipping_modes": [
+      "SHM281141",
+      "SHM529226",
+      "SHM689366",
+      "SHM124562",
+      "SHM806137"
+    ],
+    "rating": 2.4,
+    "status": "Suspended",
+    "created_date": "2024-08-10T22:34:18",
+    "last_updated": "2024-11-18T17:57:03"
+  },
+  {
+    "partner_id": "72e44b3f-1beb-46c6-a51c-2d85865cac87",
+    "partner_code": "TP65239559",
+    "partner_name": "Elliott-Franklin",
+    "contact_person": "Kelly Middleton",
+    "email": "evanssara@example.org",
+    "phone": "(494)961-5822",
+    "address": "99186 Reed Mews Apt. 904\nNorth Williamville, GU 36716",
+    "gst_number": "GST7391848799",
+    "pan_number": "PAN3702191694",
+    "service_areas": [
+      "Regional",
+      "Local",
+      "International"
+    ],
+    "shipping_modes": [
+      "SHM953643",
+      "SHM748838"
+    ],
+    "rating": 4.5,
+    "status": "Suspended",
+    "created_date": "2024-09-08T02:04:27",
+    "last_updated": "2024-09-28T12:00:31"
+  },
+  {
+    "partner_id": "c1235e0f-1b78-4849-a106-ad4ab032b164",
+    "partner_code": "TP11975613",
+    "partner_name": "Frank, Hunt and Martinez",
+    "contact_person": "Matthew Soto",
+    "email": "annathomas@example.com",
+    "phone": "+1-675-947-0973x8717",
+    "address": "9173 Smith Stravenue Suite 272\nLake Johnport, MN 78611",
+    "gst_number": "GST877862437",
+    "pan_number": "PAN3225718081",
+    "service_areas": [
+      "National",
+      "Regional"
+    ],
+    "shipping_modes": [
+      "SHM866822",
+      "SHM209663"
+    ],
+    "rating": 1.1,
+    "status": "Suspended",
+    "created_date": "2023-05-23T00:42:06",
+    "last_updated": "2024-03-29T07:11:05"
+  },
+  {
+    "partner_id": "ca89f095-2f84-4e80-b938-bb3d456d1848",
+    "partner_code": "TP29845277",
+    "partner_name": "Jones, Anderson and Wilson",
+    "contact_person": "Wanda Vazquez",
+    "email": "vbarber@example.com",
+    "phone": "(965)570-0148x24573",
+    "address": "41944 Michele Parkway\nNew Nataliehaven, CT 18850",
+    "gst_number": "GST1547437893",
+    "pan_number": "PAN6365965843",
+    "service_areas": [
+      "Local",
+      "International"
+    ],
+    "shipping_modes": [
+      "SHM811352",
+      "SHM369207",
+      "SHM721810"
+    ],
+    "rating": 3.7,
+    "status": "Active",
+    "created_date": "2024-02-24T01:25:37",
+    "last_updated": "2024-07-31T08:20:00"
+  },
+  {
+    "partner_id": "889cb1dc-afee-455d-98fd-44069e84d70e",
+    "partner_code": "TP38961587",
+    "partner_name": "Snow, Hammond and Snyder",
+    "contact_person": "Daniel Bridges",
+    "email": "trojas@example.net",
+    "phone": "(560)700-9107x1407",
+    "address": "85079 Morgan Stream Apt. 161\nJessicabury, NC 44245",
+    "gst_number": "GST3290065667",
+    "pan_number": "PAN2611912123",
+    "service_areas": [
+      "Regional",
+      "Local"
+    ],
+    "shipping_modes": [
+      "SHM402874"
+    ],
+    "rating": 2.2,
+    "status": "Suspended",
+    "created_date": "2023-05-19T03:55:14",
+    "last_updated": "2024-11-05T14:59:02"
+  },
+  {
+    "partner_id": "817d2b19-452d-44db-bf86-c945c7671a57",
+    "partner_code": "TP92590207",
+    "partner_name": "Schneider-Decker",
+    "contact_person": "Miguel Green",
+    "email": "david08@example.org",
+    "phone": "685.422.1631x12555",
+    "address": "802 Smith Islands Apt. 473\nWilsonburgh, FM 59062",
+    "gst_number": "GST1489852914",
+    "pan_number": "PAN7008967369",
+    "service_areas": [
+      "Regional",
+      "Local",
+      "International"
+    ],
+    "shipping_modes": [
+      "SHM668555",
+      "SHM533897",
+      "SHM316158",
+      "SHM928742"
+    ],
+    "rating": 3.6,
+    "status": "Suspended",
+    "created_date": "2025-01-15T22:39:05",
+    "last_updated": "2024-08-24T03:54:10"
+  },
+  {
+    "partner_id": "0b306f16-d256-4b44-a3fd-5910598f7c5c",
+    "partner_code": "TP178722",
+    "partner_name": "Simmons LLC",
+    "contact_person": "Mr. Jason Bentley",
+    "email": "robertcummings@example.com",
+    "phone": "001-336-832-3539x973",
+    "address": "76074 John Tunnel\nEast Trevor, ID 10472",
+    "gst_number": "GST2800288430",
+    "pan_number": "PAN8352631901",
+    "service_areas": [
+      "National"
+    ],
+    "shipping_modes": [
+      "SHM229388",
+      "SHM612732",
+      "SHM445055",
+      "SHM130160"
+    ],
+    "rating": 3.6,
+    "status": "Suspended",
+    "created_date": "2024-02-25T00:29:36",
+    "last_updated": "2024-12-06T16:09:10"
+  },
+  {
+    "partner_id": "59d0c500-93e8-46ac-819d-c01f9b8343d7",
+    "partner_code": "TP8779879",
+    "partner_name": "Cruz LLC",
+    "contact_person": "Sara Dunn",
+    "email": "dwalters@example.net",
+    "phone": "355-566-0644",
+    "address": "5124 Hicks Rapid\nWilliamsbury, GU 62258",
+    "gst_number": "GST6178642253",
+    "pan_number": "PAN614244",
+    "service_areas": [
+      "Local"
+    ],
+    "shipping_modes": [
+      "SHM662248",
+      "SHM195049",
+      "SHM156526",
+      "SHM274998"
+    ],
+    "rating": 4.8,
+    "status": "Inactive",
+    "created_date": "2024-08-24T04:09:21",
+    "last_updated": "2024-11-23T22:16:16"
+  },
+  {
+    "partner_id": "67565ad8-3630-4b6e-9802-15af63d9b827",
+    "partner_code": "TP84571952",
+    "partner_name": "Ramirez Inc",
+    "contact_person": "Joseph Ellis",
+    "email": "rileyjoseph@example.org",
+    "phone": "(915)665-6009x2158",
+    "address": "277 Ray Knoll\nLake Julia, SC 40014",
+    "gst_number": "GST8003090090",
+    "pan_number": "PAN8878256824",
+    "service_areas": [
+      "Regional"
+    ],
+    "shipping_modes": [
+      "SHM960670",
+      "SHM865405",
+      "SHM950863",
+      "SHM931291",
+      "SHM891650"
+    ],
+    "rating": 1.6,
+    "status": "Active",
+    "created_date": "2023-07-20T10:49:45",
+    "last_updated": "2024-04-07T17:11:08"
+  },
+  {
+    "partner_id": "c5d29884-70ee-4ac2-8d1c-c1dcfa7c4258",
+    "partner_code": "TP44196491",
+    "partner_name": "Hernandez-Clark",
+    "contact_person": "Julie Schaefer",
+    "email": "taylormichael@example.net",
+    "phone": "001-654-365-4208",
+    "address": "PSC 5527, Box 2589\nAPO AP 95064",
+    "gst_number": "GST9655834689",
+    "pan_number": "PAN6917436137",
+    "service_areas": [
+      "National",
+      "Regional",
+      "Local"
+    ],
+    "shipping_modes": [
+      "SHM486929",
+      "SHM620955"
+    ],
+    "rating": 4.3,
+    "status": "Inactive",
+    "created_date": "2024-04-28T17:22:07",
+    "last_updated": "2024-07-07T20:14:52"
+  },
+  {
+    "partner_id": "6d640221-f0ab-4d1e-a8ac-2f85744811b4",
+    "partner_code": "TP30013469",
+    "partner_name": "Horn Ltd",
+    "contact_person": "Meredith Coleman",
+    "email": "ngalloway@example.com",
+    "phone": "(882)686-0802",
+    "address": "USNV Horne\nFPO AE 09459",
+    "gst_number": "GST1449661314",
+    "pan_number": "PAN6834296461",
+    "service_areas": [
+      "National",
+      "Regional"
+    ],
+    "shipping_modes": [
+      "SHM880104",
+      "SHM664034",
+      "SHM337474",
+      "SHM505812"
+    ],
+    "rating": 4.8,
+    "status": "Suspended",
+    "created_date": "2024-08-17T12:22:12",
+    "last_updated": "2025-02-18T23:14:23"
+  },
+  {
+    "partner_id": "09e69bc5-d3b1-4e27-b1a7-b459e7a3ca0d",
+    "partner_code": "TP22211415",
+    "partner_name": "Carpenter-Avila",
+    "contact_person": "Sandy Mitchell",
+    "email": "harold82@example.org",
+    "phone": "001-470-501-5739x0585",
+    "address": "451 Sean Isle Suite 248\nEast Michael, MN 32163",
+    "gst_number": "GST1826136882",
+    "pan_number": "PAN8515404192",
+    "service_areas": [
+      "Regional",
+      "National"
+    ],
+    "shipping_modes": [
+      "SHM725058"
+    ],
+    "rating": 4.2,
+    "status": "Active",
+    "created_date": "2024-09-12T04:48:30",
+    "last_updated": "2025-02-05T03:17:51"
+  },
+  {
+    "partner_id": "e77a17c1-8846-480d-a9b9-04708dd2a635",
+    "partner_code": "TP52144220",
+    "partner_name": "Thompson, Trujillo and Stevenson",
+    "contact_person": "John Webb",
+    "email": "ihenry@example.com",
+    "phone": "474-427-5520x9809",
+    "address": "6212 Jeffery Overpass\nJohnsonfort, FM 51087",
+    "gst_number": "GST7763095966",
+    "pan_number": "PAN4220475330",
+    "service_areas": [
+      "Regional"
+    ],
+    "shipping_modes": [
+      "SHM269253"
+    ],
+    "rating": 2.6,
+    "status": "Suspended",
+    "created_date": "2023-10-08T05:18:42",
+    "last_updated": "2024-06-24T18:22:48"
+  }
+]

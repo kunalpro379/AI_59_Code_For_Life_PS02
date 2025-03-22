@@ -1,0 +1,8 @@
+Faker==22.6.0 
+openai
+dotenv
+transformers
+pymongo
+pytorch
+torch
+torchvision

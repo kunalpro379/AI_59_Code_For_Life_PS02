@@ -1,0 +1,302 @@
+[
+  {
+    "code_id": "ff3ca5c8-8a97-458d-9626-4a343c12eee7",
+    "tax_code": "TAX7005",
+    "tax_name": "CST",
+    "rate": 18.27,
+    "description": "Tough tax modern lay learn early on. Note modern time worry much.\nPlan many standard floor work eat probably ahead. Professional item deal unit probably.",
+    "is_active": false,
+    "created_date": "2024-09-19T04:45:21",
+    "last_updated": "2024-04-22T09:37:23"
+  },
+  {
+    "code_id": "05c70d46-4932-48eb-8ee5-5a84804f3c5f",
+    "tax_code": "TAX1234",
+    "tax_name": "Customs",
+    "rate": 22.52,
+    "description": "Whom out family grow spend election cut. Environmental assume seek thousand star finish.\nClear law run. Person film defense short.",
+    "is_active": false,
+    "created_date": "2023-11-17T10:24:57",
+    "last_updated": "2024-10-08T20:10:16"
+  },
+  {
+    "code_id": "2d044901-ff2d-4954-805f-186bbdfaa7d3",
+    "tax_code": "TAX5747",
+    "tax_name": "VAT",
+    "rate": 17.29,
+    "description": "Work mother age dark. Remain side popular political campaign why theory.\nYour analysis board bring. Such piece where process.",
+    "is_active": true,
+    "created_date": "2023-12-03T13:27:32",
+    "last_updated": "2024-10-25T10:06:18"
+  },
+  {
+    "code_id": "42d5610c-be3c-4af9-8693-b24eb594d4f8",
+    "tax_code": "TAX3213",
+    "tax_name": "VAT",
+    "rate": 15.91,
+    "description": "Trouble special leave and only. Rule direction write reduce measure.\nDiscover success culture call. Yard maybe quality be next.",
+    "is_active": true,
+    "created_date": "2023-06-12T03:43:09",
+    "last_updated": "2025-02-03T15:34:49"
+  },
+  {
+    "code_id": "172409b7-3023-4643-89a9-832bf5a6eec9",
+    "tax_code": "TAX463",
+    "tax_name": "Service Tax",
+    "rate": 19.37,
+    "description": "Argue top range car miss. Over yeah mission report.\nShake still best style moment though last. City long however together phone party upon. Letter past military option.",
+    "is_active": true,
+    "created_date": "2024-06-15T05:12:59",
+    "last_updated": "2025-02-07T19:37:11"
+  },
+  {
+    "code_id": "2a02442b-f68a-428f-8a16-cf02a69f1a8b",
+    "tax_code": "TAX2678",
+    "tax_name": "Customs",
+    "rate": 18.25,
+    "description": "Drop evening wish top bit believe break. Marriage size conference might resource leave. Soon market long thus.",
+    "is_active": true,
+    "created_date": "2023-06-05T06:29:32",
+    "last_updated": "2024-11-13T11:10:22"
+  },
+  {
+    "code_id": "fc9d1099-7f9f-46c0-845d-17040537c9ae",
+    "tax_code": "TAX8647",
+    "tax_name": "Service Tax",
+    "rate": 19.56,
+    "description": "Offer way head husband activity activity. Foreign knowledge nice just. Science least many off professional.",
+    "is_active": false,
+    "created_date": "2025-03-13T04:15:33",
+    "last_updated": "2024-11-09T10:48:43"
+  },
+  {
+    "code_id": "bb3a66b4-a159-49ba-b4bf-d48e17b17231",
+    "tax_code": "TAX3751",
+    "tax_name": "Customs",
+    "rate": 16.76,
+    "description": "Magazine policy green thing. Crime guy pick class peace team cut others. Room will growth.\nBehind machine learn commercial seven develop sell. Prevent process your instead ever.",
+    "is_active": true,
+    "created_date": "2024-02-18T07:13:18",
+    "last_updated": "2024-12-22T04:37:18"
+  },
+  {
+    "code_id": "57f0f65f-2b77-415a-8963-2aa63603eb02",
+    "tax_code": "TAX2838",
+    "tax_name": "Service Tax",
+    "rate": 26.96,
+    "description": "Beautiful interesting stop. Forget on develop computer become they. Computer short student day city visit car.\nCurrent enter international happen kid. Ready former impact indeed.",
+    "is_active": false,
+    "created_date": "2024-12-06T21:32:41",
+    "last_updated": "2024-11-21T21:39:46"
+  },
+  {
+    "code_id": "f1a1e888-e6c1-403a-981c-8d32f0e9f488",
+    "tax_code": "TAX9003",
+    "tax_name": "VAT",
+    "rate": 21.37,
+    "description": "College technology without she century indicate perform. Song study oil.\nEnd matter or condition daughter. Cell goal attack begin.",
+    "is_active": true,
+    "created_date": "2023-09-09T16:15:01",
+    "last_updated": "2024-12-14T19:20:18"
+  },
+  {
+    "code_id": "977d0ac7-bb75-4f6e-ae1b-37ebcfb486e8",
+    "tax_code": "TAX9391",
+    "tax_name": "VAT",
+    "rate": 6.26,
+    "description": "Market ago back. Ball exactly total tend fill environment.\nYeah national bit grow high store. Reason unit including weight occur.",
+    "is_active": false,
+    "created_date": "2023-11-29T20:35:56",
+    "last_updated": "2024-06-05T07:44:12"
+  },
+  {
+    "code_id": "5617b78e-0cf0-4df1-bb86-7672a2e9434d",
+    "tax_code": "TAX8459",
+    "tax_name": "Customs",
+    "rate": 6.0,
+    "description": "Career surface medical watch north resource prevent.\nDevelopment central meeting lawyer ready candidate coach. Image trip forget arrive budget pick experience.\nFederal food staff leave.",
+    "is_active": false,
+    "created_date": "2023-05-07T06:27:48",
+    "last_updated": "2024-06-15T07:58:10"
+  },
+  {
+    "code_id": "933ce66d-dccb-489c-8ade-3d6daea03007",
+    "tax_code": "TAX2860",
+    "tax_name": "CST",
+    "rate": 25.98,
+    "description": "Perform loss adult once perform. Value truth allow low build always drop.\nMy table last cell story. Mention family detail walk than.\nFirm different war. All point soon cut task bar. Run morning us.",
+    "is_active": false,
+    "created_date": "2023-06-09T22:50:11",
+    "last_updated": "2024-11-21T04:45:20"
+  },
+  {
+    "code_id": "9e83cd04-4298-43df-83db-6484746a1eb0",
+    "tax_code": "TAX5851",
+    "tax_name": "Service Tax",
+    "rate": 8.73,
+    "description": "Wrong American trial past because. Wear debate car quickly room yourself.\nFind brother treatment model relate bag. Hit style bad know more so far.",
+    "is_active": false,
+    "created_date": "2023-09-30T10:46:02",
+    "last_updated": "2024-05-13T23:12:15"
+  },
+  {
+    "code_id": "ba8348be-df48-4c35-958e-8e5168f42230",
+    "tax_code": "TAX527",
+    "tax_name": "CST",
+    "rate": 1.32,
+    "description": "Main project dream necessary push process fear however. Research everything during. Market bank two lot material. South herself clear open significant front lay.",
+    "is_active": true,
+    "created_date": "2024-11-27T03:02:56",
+    "last_updated": "2025-02-16T00:37:19"
+  },
+  {
+    "code_id": "107579bd-d0c4-4d24-b483-fbad4e5d4b50",
+    "tax_code": "TAX8602",
+    "tax_name": "Excise",
+    "rate": 16.69,
+    "description": "Throughout teach wall beautiful want rather say. Difficult game month nor community. So former condition medical most.\nOil in perform series vote benefit.",
+    "is_active": true,
+    "created_date": "2023-11-02T16:42:01",
+    "last_updated": "2024-05-06T13:56:44"
+  },
+  {
+    "code_id": "b18f05ce-076e-43c7-ac24-4f22df8126bf",
+    "tax_code": "TAX2863",
+    "tax_name": "Service Tax",
+    "rate": 0.83,
+    "description": "And all city fight human social. Seat region will theory better memory.\nContinue hear large blue per personal.\nEspecially agree life fine a nature develop then. Control represent else less.",
+    "is_active": true,
+    "created_date": "2024-05-12T11:54:03",
+    "last_updated": "2024-04-25T21:05:54"
+  },
+  {
+    "code_id": "915c1e5a-d637-4689-b959-f0df90b8a1b3",
+    "tax_code": "TAX163",
+    "tax_name": "Excise",
+    "rate": 17.9,
+    "description": "While up even realize security. Mission must sister.\nExpect opportunity building TV moment above benefit performance. Author cost product face. Join those gas plant score fund hot American.",
+    "is_active": true,
+    "created_date": "2023-10-06T04:51:48",
+    "last_updated": "2024-04-21T18:46:47"
+  },
+  {
+    "code_id": "a85b386d-40e9-4616-808b-b25ddabcb7ef",
+    "tax_code": "TAX7945",
+    "tax_name": "VAT",
+    "rate": 21.95,
+    "description": "Thought what investment what. Know already set pay surface budget guy western. Off deal personal. Investment woman onto be exactly.",
+    "is_active": true,
+    "created_date": "2025-03-21T19:01:28",
+    "last_updated": "2024-04-21T03:09:00"
+  },
+  {
+    "code_id": "2fc5d051-47ef-4f84-a20d-f10ba86cf0cd",
+    "tax_code": "TAX9546",
+    "tax_name": "CST",
+    "rate": 9.64,
+    "description": "The north statement visit page effort himself. Deep than people law every memory.\nCareer plant and imagine marriage run enter. Feeling hope sure high water state. Will glass kitchen court.",
+    "is_active": false,
+    "created_date": "2023-08-04T14:22:38",
+    "last_updated": "2025-03-16T06:10:54"
+  },
+  {
+    "code_id": "f413367d-28d7-4cf6-9274-f16d1b1a9f73",
+    "tax_code": "TAX4469",
+    "tax_name": "Service Tax",
+    "rate": 5.38,
+    "description": "Office thousand I early recently cell. Rich wear not local miss design factor.\nAlready plant team generation performance box. Hit movie talk suffer phone current.",
+    "is_active": false,
+    "created_date": "2023-11-16T22:27:34",
+    "last_updated": "2024-11-12T14:48:01"
+  },
+  {
+    "code_id": "665ea15c-272e-4a2c-b18d-b846f61d5166",
+    "tax_code": "TAX5303",
+    "tax_name": "VAT",
+    "rate": 11.13,
+    "description": "Catch including school. Economy as debate forward new. Realize memory time treat watch light choose. Investment pattern vote prepare.\nWest fast suddenly. Quite talk part central central.",
+    "is_active": true,
+    "created_date": "2025-03-10T02:28:57",
+    "last_updated": "2024-11-01T06:01:05"
+  },
+  {
+    "code_id": "9e54d719-aaaa-4e01-9df7-b3b265fc3356",
+    "tax_code": "TAX4283",
+    "tax_name": "Service Tax",
+    "rate": 26.19,
+    "description": "Throw happen finish lot rather. Example son candidate much behind everyone policy.\nWithout money perform clearly man walk drug.",
+    "is_active": false,
+    "created_date": "2024-03-15T11:39:38",
+    "last_updated": "2024-04-19T15:21:50"
+  },
+  {
+    "code_id": "2d07d5f1-ef08-497d-bfe8-6afb667e8fc7",
+    "tax_code": "TAX6378",
+    "tax_name": "Excise",
+    "rate": 19.34,
+    "description": "Window natural gas. May next line.\nLand health gun player wrong. Center child fight by let table face. Couple same four.\nOthers design easy offer. Goal top like us.",
+    "is_active": true,
+    "created_date": "2025-01-14T04:49:36",
+    "last_updated": "2024-07-01T00:00:54"
+  },
+  {
+    "code_id": "3a2a5e5e-97a6-452d-b324-7824220e06c5",
+    "tax_code": "TAX8612",
+    "tax_name": "Service Tax",
+    "rate": 7.66,
+    "description": "Ready road culture about market wear. Morning account compare.",
+    "is_active": true,
+    "created_date": "2025-02-07T15:06:45",
+    "last_updated": "2025-01-06T20:37:26"
+  },
+  {
+    "code_id": "5bac7bc8-2d6c-4b35-90d2-58254411910d",
+    "tax_code": "TAX1104",
+    "tax_name": "CST",
+    "rate": 19.93,
+    "description": "Mean seat good religious. Ago level western possible story fine almost able. May throughout area.\nCould meeting writer true night.",
+    "is_active": false,
+    "created_date": "2025-01-25T00:01:45",
+    "last_updated": "2024-06-18T20:42:48"
+  },
+  {
+    "code_id": "239ad23e-3701-4612-93bc-6295a5354737",
+    "tax_code": "TAX8909",
+    "tax_name": "VAT",
+    "rate": 1.24,
+    "description": "She daughter different group. Current senior street along. Behind left indicate interesting service. Begin morning box white.",
+    "is_active": false,
+    "created_date": "2023-08-17T20:49:37",
+    "last_updated": "2024-10-24T14:35:32"
+  },
+  {
+    "code_id": "864d869c-e6c0-43ca-aef5-59d35024b167",
+    "tax_code": "TAX4231",
+    "tax_name": "Excise",
+    "rate": 6.23,
+    "description": "Benefit go bill.\nFinal key tax anyone. Check truth card.",
+    "is_active": false,
+    "created_date": "2025-02-14T09:51:37",
+    "last_updated": "2024-11-27T04:02:25"
+  },
+  {
+    "code_id": "a76b862d-bb41-4435-85e2-073b0d0c9e3f",
+    "tax_code": "TAX4666",
+    "tax_name": "VAT",
+    "rate": 18.14,
+    "description": "Avoid too total team. Move performance issue data defense modern plan. There hear drug worker stop become defense effort.",
+    "is_active": true,
+    "created_date": "2024-02-22T19:50:30",
+    "last_updated": "2024-07-21T16:02:56"
+  },
+  {
+    "code_id": "395cfda5-2304-4669-bb99-a80a66072569",
+    "tax_code": "TAX5270",
+    "tax_name": "Excise",
+    "rate": 13.55,
+    "description": "Alone may hospital until. Military exist draw money side. On dark box hold also organization less.\nBeat put red difference. Try once leg card bed some parent mouth. Newspaper officer body story hold.",
+    "is_active": true,
+    "created_date": "2024-09-21T19:20:08",
+    "last_updated": "2024-09-18T01:51:46"
+  }
+]
